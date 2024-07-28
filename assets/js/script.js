@@ -40,6 +40,7 @@
     nextArrow: '<button type="button" class="slick-next">&gt;</button>',
     centerMode: true,
     variableWidth: true,
+    adaptiveHeight: true,
   });
 
   //Hero Slider
