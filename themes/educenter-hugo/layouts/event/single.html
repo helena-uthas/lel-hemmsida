@@ -72,21 +72,21 @@
     </div>
 
     <!-- Images Slider -->
-    <div class="row">
+    <div class="row align-items-center">
       <!-- <div class="col-12">
         <h2 class="mb-3">Bilder</h2>
       </div> -->
         <div class="emir-carousel col-lg-12"> 
           {{ range $index, $value := .Params.gallery }}
           <div class="slick-slide">
-            <img style="height: 300px;width: 90%;object-fit: cover;" class="rounded" data-animation-out="fadeOutLeft" data-delay-out="5" data-duration-in=".3"
+            <img style="height: 300px;width: auto;max-width:90%;object-fit: cover;" class="rounded" data-animation-out="fadeOutLeft" data-delay-out="5" data-duration-in=".3"
             data-animation-in="fadeInRight" data-delay-in=".1" src="{{ $value.image | relURL }}" alt="{{ $value.title }}">
+            {{/*  <div style="height: 300px;width: 90%"></div>  */}}
           </div>
         {{ end }}
         </div>
 
     </div>
-
     <!-- Images Slider
     <div class="row">
       <div class="col-12">
