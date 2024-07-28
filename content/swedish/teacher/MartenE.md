@@ -12,7 +12,7 @@ image: "images/personal/vit.jpg"
 course: "Rektor"
 cat: "Ledningsgruppen"
 # biography
-bio: "Mårten har varit rektor på LEL sedan...."
+bio: "Rektor"
 # interest
 interest: ["Måndag-Fredag","Tid: 08.30-17:00","Kontor i sal B20/202"]
 # contact info
