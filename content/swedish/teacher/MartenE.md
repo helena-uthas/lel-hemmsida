@@ -12,7 +12,7 @@ image: "images/personal/vit.jpg"
 course: "Rektor"
 cat: "Ledningsgruppen"
 # biography
-bio: "Rektor"
+bio: "Mårten är rektor på LEL. "
 # interest
 interest: ["Måndag-Fredag","Tid: 08.30-17:00","Kontor i sal B20/202"]
 # contact info

@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Anne-Charlotte tar emot alla elever i behov av samtal. "
 # interest
-interest: ["Ti 08.30-15.00","On 08.30-17.00","To 08.30-15.00", "Sal 207","Enligt överenskommelse, enklast via e-post"]
+interest: ["Ti 08.30-15.00","On 08.30-17.00","To 08.30-15.00", "Rum 207","Enligt överenskommelse, enklast via e-post"]
 
 
 # contact info
