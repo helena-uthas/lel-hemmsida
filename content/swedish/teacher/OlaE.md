@@ -12,7 +12,7 @@ image: "images/personal/vit.jpg"
 course: "Biologi/Naturkunskap"
 category: "Lärare"
 # biography
-bio: "Ola har varit lärare på LEL sedan 2007. Han är mycket intresserad av hållbar utveckling med inriktning mot biologisk mångfald. Specialintressen är fåglar och insekter. År 2017 fick Ola Ingvar Lindqvist priset som varje år delas ut av vetenskapsakademin på Kungliga tekniska högskolan till engagerade och nytänkande lärare."
+bio: "Ola har varit lärare på LEL sedan 2007. Han är mycket intresserad av hållbar utveckling med inriktning mot biologisk mångfald. Specialintressen är fåglar och insekter. År 2017 fick Ola Ingvar Lindqvistpriset som varje år delas ut till engagerade och nytänkande lärare."
 # interest
 interest: ["Måndag-Fredag","Kontor i sal B21/203"]
 # contact info

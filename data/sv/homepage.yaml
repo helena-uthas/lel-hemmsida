@@ -4,28 +4,28 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Lars-Erik Larsson gymnasiet"
+    - title : "Lars-Erik Larsson-gymnasiet"
       content : "Lunds musikgymnasium för natur och samhällsvetenskap."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button1:
         enable : true
-        label : "Ansöka"
+        label : "ANSÖK"
         link : "apply/"
       button2:
         enable : false
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa konsert - FÖRKLÄDD GUD"
+    - title : "Nästa konsert: FÖRKLÄDD GUD"
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button1:
         enable : true
-        label : "Köp biljett till konserter"
+        label : "BILJETTER"
         link : "https://www.ticketmaster.se/artist/lars-erik-larssongymnasiet-biljetter/960155"
       button2:
         enable : false
@@ -42,7 +42,7 @@ slider:
       # available animation : left, right, up, down
       button1:
         enable : true
-        label : "Skugga en elev"
+        label : "SKUGGA"
         link : "skugga/"
       button2:
         enable : false
@@ -83,7 +83,7 @@ about:
   enable : true
   title : "Om vår gymnasieskola"
   image : "images/about/student1.jpeg"
-  content : "Lars-Erik Larsson gymnasiet erbjuder universitetsförberedande gymansieprogram med en kvalificerad musikprofil som även ger mycket goda förutsättningar att studera vidare inom musik. Musiken främjar de teoretiska ämnena 
+  content : "Lars-Erik Larsson-gymnasiet erbjuder universitetsförberedande gymnasieprogram med en kvalificerad musikprofil som även ger mycket goda förutsättningar att studera vidare inom musik. Musiken främjar de teoretiska ämnena 
   och skapar en helhet där elever finner kreativitet i musiken."
   button:
     enable : true

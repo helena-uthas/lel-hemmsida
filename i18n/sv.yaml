@@ -32,7 +32,7 @@
   translation: Se Mer
 
 - id: apply_now
-  translation: Att Ansöka
+  translation: LÄS MER
 
 - id: posted_by
   translation: Skrivet av
@@ -77,7 +77,7 @@
   translation: Gå med
   
 - id: enter_email
-  translation: Skriv in din epost
+  translation: Skriv in din e-post
 - id: company
   translation: Skola
 
@@ -94,7 +94,7 @@
   translation: telefon
 
 - id: email
-  translation: email
+  translation: e-post
 
 - id: all
   translation: Alla
