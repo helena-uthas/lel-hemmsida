@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Lars-Erik Larsson-gymnasiet"
-      content : "Lunds musikgymnasium för natur och samhällsvetenskap."
+      content : "Natur -och samhällsvetenskaplig utbildning med musikprofil."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

@@ -21,7 +21,7 @@ image3: "images/elever/elev.jpg"
 ### LELs elevkår
 
 
-Elevernas inflytande är viktigt. Elevkåren finns för att sprida glädje, gemenskap och god stämning på skolan och det ger eleverna fler chanser att utöka sin umgängeskrets. Kåren arrangerar aktiviteter, tävlingar och temadagar så som:
+Elevernas inflytande är viktigt. Elevkåren finns för att sprida glädje, gemenskap och god stämning på skolan och det ger eleverna fler chanser att utöka sin umgängeskrets. Kåren arrangerar aktiviteter, tävlingar och temadagar såsom:
 
 - ”Lanet”- där sover hela skolan över i Bredgatans lokaler och spelar spel, tittar på skräckfilm och äter pizza hela natten.
 - ”Killerveckan”- en tävling under skoltid för de som vill där det finns skydd och vapen och alla får offer som man ska ”döda” under veckans gång. 

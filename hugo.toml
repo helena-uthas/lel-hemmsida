@@ -401,23 +401,23 @@ weight = 4
 
 [[Languages.sv.menu.main]]
 weight = 3
-name = "Ansökan"
+name = "Ansök"
 hasChildren = true
 
   [[Languages.sv.menu.main]]
-  parent = "Ansökan"
+  parent = "Ansök"
   name = "Sök till LEL"
   url = "apply/"
   weight = 1
 
   [[Languages.sv.menu.main]]
-  parent = "Ansökan"
+  parent = "Ansök"
   name = "Skugga en elev"
   url = "skugga"
   weight = 3
 
   [[Languages.sv.menu.main]]
-  parent = "Ansökan"
+  parent = "Ansök"
   name = "Inträdesprov"
   url = "prov/"
   weight = 2

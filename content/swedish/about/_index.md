@@ -11,15 +11,12 @@ description : "Välkomnen till Lars-Erik Larsson gymnasiet i Lund!"
 
 ## Om vår skola
 
-Lars-Erik Larsson gymnasiet erbjuder universitetsförberedande gymnasieprogram med en musikprofil som även ger mycket goda förutsättningar att studera vidare inom musik. Musiken främjar de teoretiska ämnena och skapar en helhet där elever finner kreativitet i musiken. Som elev här får du behörighet till de flesta högskoleutbildningar och dessutom mycket goda förutsättningar att studera vidare inom musiken. Lars-Erik Larsson-gymnasiet drivs som ideell förening, vilket bland annat innebär att eventuellt överskott alltid används inom skolans verksamhet. _[Följ länken och läs mer om LEL som ideell förening]({{< ref "/lel" >}} "ideell förening")_. 
+Lars-Erik Larsson-gymnasiet erbjuder universitetsförberedande gymnasieprogram med en musikprofil som ger mycket goda förutsättningar att studera vidare inom såväl natur -och samhällsvetenskap som musik. Musiken främjar de teoretiska ämnena och skapar en helhet där elever finner kreativitet. Lars-Erik Larsson-gymnasiet drivs som en ideell förening, vilket bland annat innebär att eventuellt överskott alltid används inom skolans verksamhet. _[Följ länken och läs mer om LEL som ideell förening]({{< ref "/lel" >}} "ideell förening")_. 
 
 
 ### Skolhusen
 
-Vi har undervisningslokaler både på Linderbergska skolan och på Bredgatan 13. Byggnaderna ligger med 150 m avstånd från varandra och eleverna får därmed några få minuters frisk luft mellan lektionerna då de förflyttar sig mellan byggnaderna. Matsal, expedition, replokaler, flera undervisningssalar samt labblokalerna för kemi, biologi och fysik finns på Bredgatan. På Linderbergska skolan finns både aulan, undervisningssalar, studieplatser samt lokaler utrustade för musikundervisningen. All undervisning, utom idrotten, sker i dessa båda hus. Lars-Erik Larsson gymnasiet delar lokalerna på Linderbergska skolan med Kulturskolan. Avståndet mellan husen är ungefär 150 m och båda husen har 2 min gångväg från Lund C.  
-
-### Elevinflytande
-LEL har en aktiv elevkår som bidrar till allt från att få elevernas röster hörda till att hitta på roliga aktiviteter på skolan. Eleverna själva har också möjlighet att skapa egna utskott där de tillsammans med elever med liknande intressen träffas och aktiverar övriga elever på skolan samt erbjuder aktiviteter. Idag finns utskott så som Basketutskottet, Må-bra utskottet, Skoltidningen med flera. 
+Vi har undervisningslokaler både på Linderbergska skolan och på Bredgatan 13. Byggnaderna ligger med 150 m avstånd från varandra och 2 min gångväg från Lund C. Eleverna får därmed några få minuters frisk luft mellan lektionerna då de förflyttar sig mellan byggnaderna. Matsal, expedition, replokaler, flera undervisningssalar samt labblokalerna för kemi, biologi och fysik finns på Bredgatan. På Linderbergska skolan finns både aulan, undervisningssalar, studieplatser samt lokaler utrustade för musikundervisningen. All undervisning, utom idrotten, sker i dessa båda hus. Lars-Erik Larsson gymnasiet delar lokalerna på Linderbergska skolan med Kulturskolan.
 
 
 ### LELs historia

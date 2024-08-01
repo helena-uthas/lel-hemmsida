@@ -12,7 +12,7 @@ description : "Musikundervisningen på LEL"
 
 ## Musikprofilen på LEL
 
-**_Alla program på LEL har musikprofil. Detta innebär att oavsett om du väljer naturvetenskap eller samhällsvetenskap så kommer du få ta del av LELs musikkurser._**
+**_Alla program på LEL har musikprofil. Detta innebär att oavsett om du väljer naturvetenskap eller samhällsvetenskap så kommer du att få ta del av LELs musikkurser._**
 
 <strong>I musikprofilen ingår körsång och ensemble som mest omfattande kurser, men också dans, musikteori och musikhistoria. Musiken spänner över många olika musikstilar - från klassiskt till rock.</strong>
 

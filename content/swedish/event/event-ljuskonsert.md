@@ -73,4 +73,4 @@ gallery:
 
 ### Om årets ljuskonsert
 
-När året börjar närma sig sitt slut tänds ljusen i Allhelgona kyrkan. Denna vackra ljuskonsert är stämningsfull och pampig, med klassiska och tradionella musikinslag.  
+När året börjar närma sig sitt slut tänds ljusen i Allhelgonakyrkan. Denna vackra ljuskonsert är stämningsfull och pampig, med klassiska och tradionella musikinslag.  
