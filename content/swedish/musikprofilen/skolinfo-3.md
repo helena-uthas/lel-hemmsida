@@ -1,5 +1,5 @@
 ---
-title: "Jazzgruppen"
+title: "Jazzensemblen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -9,5 +9,5 @@ image: "images/skolsidor/jazz.jpg"
 description : "jazz"
 ---
 
-Jazzgruppen under LEL-el. 
+Jazzensemblen under LEL-el. 
 

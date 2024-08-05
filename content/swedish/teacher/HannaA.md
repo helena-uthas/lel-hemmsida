@@ -14,7 +14,7 @@ cat: "Ledningsgruppen"
 # biography
 bio: "Hanna är biträdande rektor och syokonsulent."
 # interest
-interest: ["Måndag-Fredag","Tid: 09.00-15:00","Kontor i sal 208"]
+interest: ["Måndag-Fredag","Rum: 208","Tid: 09.00-15:00"]
 # contact info
 contact:
   # contact item loop

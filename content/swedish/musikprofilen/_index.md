@@ -18,6 +18,6 @@ description : "Musikundervisningen på LEL"
 
 Varje klass är en kör. Klasserna sätts ofta ihop till årskurskörer, och hela skolan tillsammans är också en stor kör, som bland annat framför Lars-Erik Larssons Förklädd gud varje år.
 
-I kursen ensemble med körsång deltar alla elever i någon av skolans ensembler. Om man inte spelar ett instrument sjunger man istället i en extra kör. De ensembler som finns i år är **_rockgrupper, stråkorkester, barockensemble, jazzgrupp, flöjtensemble, folkmusikensemble, träblåsensemble, storband, jazzkör, gospelkör och tjejkör_**.
+I kursen ensemble med körsång deltar alla elever i någon av skolans ensembler. Om man inte spelar ett instrument sjunger man istället i en extra kör. De ensembler som finns för närvarande är: **_rockensembler, jazzensemble, storband, soulensemble, unplugged-ensemble, stråkorkester, flöjtensemble, träblåsensemble, jazzkör, gospelkör och tjejswing._**
 
 Vår musikprofil är av högsta kvalitet och en bra förberedelse för dig som vill söka vidare till musikaliska studier på musikhögskola eller folkhögskola.

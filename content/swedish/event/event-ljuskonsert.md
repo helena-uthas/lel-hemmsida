@@ -73,4 +73,4 @@ gallery:
 
 ### Om årets ljuskonsert
 
-När året börjar närma sig sitt slut tänds ljusen i Allhelgonakyrkan. Denna vackra ljuskonsert är stämningsfull och pampig, med klassiska och tradionella musikinslag.  
+När året börjar närma sig sitt slut och det är som mörkast på året, tänds ljusen i Allhelgonakyrkan. Helt omringad av både ljus och sång får konsertbesökare njuta av stämningsfull och pampig vokalmusik med vissa instrumentella inslag. Under konsertens första del medverkar skolans alla elever i ett luciatåg, och under andra delen deltar eleverna årskursvis samt i mindre ensembler.   
