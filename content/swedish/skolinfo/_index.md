@@ -26,7 +26,7 @@ description : "Viktiga datum för höstterminen 2024"
 
 <strong>Lovdagar:</strong>
 
-* Höstlovet:4-8/11 (vecka 45) 
+* Höstlovet:28/10-3/11 (vecka 44) 
 * Jullovet: 21/12-9/1.
 * Utvecklingsdag: 12/8, 14/11
 
