@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Anne-Charlotte tar emot alla elever i behov av samtal. "
 # interest
-interest: ["Ti 08.30-15.00","On 08.30-17.00","To 08.30-15.00", "Rum 221","Enligt överenskommelse, enklast via e-post"]
+interest: ["Ti 08.30-15.00","On 08.30-15.00","To 08.30-15.00", "Rum 221","Enligt överenskommelse, enklast via e-post"]
 
 
 # contact info
@@ -25,7 +25,7 @@ contact:
     link : "mailto:anne-charlotte.holmberg@lel.nu "
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "072 - 1894 900"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:+120345876"
 
@@ -50,7 +50,7 @@ contact:
   #  link : "#"
 
   # contact item loop
-  - name : "S:t Laurentiigatan 1 ,Lund"
+  - name : "S:t Laurentiigatan 1, Lund"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 

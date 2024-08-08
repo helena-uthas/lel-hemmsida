@@ -16,7 +16,7 @@ Lars-Erik Larsson-gymnasiet erbjuder universitetsförberedande gymnasieprogram m
 
 ### Skolhusen
 
-Vi har undervisningslokaler både på Linderbergska skolan och på Bredgatan 13. Byggnaderna ligger med 150 m avstånd från varandra och 2 min gångväg från Lund C. Eleverna får därmed några få minuters frisk luft mellan lektionerna då de förflyttar sig mellan byggnaderna. Matsal, expedition, replokaler, flera undervisningssalar samt labblokalerna för kemi, biologi och fysik finns på Bredgatan. På Linderbergska skolan finns både aulan, undervisningssalar, studieplatser samt lokaler utrustade för musikundervisningen. All undervisning, utom idrotten, sker i dessa båda hus. Lars-Erik Larsson gymnasiet delar lokalerna på Linderbergska skolan med Kulturskolan.
+Vi har undervisningslokaler både på Lindebergska skolan och på Bredgatan 13. Byggnaderna ligger med 150 m avstånd från varandra och 2 min gångväg från Lund C. Eleverna får därmed några få minuters frisk luft mellan lektionerna då de förflyttar sig mellan byggnaderna. Matsal, expedition, replokaler, flera undervisningssalar samt labblokalerna för kemi, biologi och fysik finns på Bredgatan. På Lindebergska skolan finns både aulan, undervisningssalar, studieplatser samt lokaler utrustade för musikundervisningen. All undervisning, utom idrotten, sker i dessa båda hus. Lars-Erik Larsson gymnasiet delar lokalerna på Lindebergska skolan med Kulturskolan.
 
 
 ### LELs historia

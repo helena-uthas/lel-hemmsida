@@ -15,7 +15,7 @@ type: "notice"
 <br><br>
 ### Terminstart
 
-*Tisdagen den 13 augusti 2024 börjar ett nytt läsår på LEL. Uppropet för våra nya elever i årskurs 1 börjar kl. 10 i aulan på Linderberska skolan.  Elever i årskurs 2 och 3 träffas i aulan kl. 12.* 
+*Tisdagen den 13 augusti 2024 börjar ett nytt läsår på LEL. Uppropet för våra nya elever i årskurs 1 börjar kl. 10 i aulan på Lindebergska skolan.  Elever i årskurs 2 och 3 träffas i aulan kl. 12.* 
 
 **Program: årskurs 1**<br>
 - **10.00** Upprop i aulan.

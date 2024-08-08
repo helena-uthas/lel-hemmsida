@@ -1,5 +1,5 @@
 ---
-title: "Linderbergska trädgården"
+title: "Lindebergska trädgården"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -9,4 +9,4 @@ image: "images/skolsidor/picknick.jpg"
 description : "Picknick"
 ---
 
-Linderbergska trädgården är välbesökt av LELs elever.
+Lindebergska trädgården är välbesökt av LELs elever.

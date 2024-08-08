@@ -9,5 +9,5 @@ image: "images/about/lel_flagga_liten.jpg"
 description : "LEL bredgatan"
 ---
 
-* Vårt skolhus på Bredgatan ligger ett stenkast från Linderberska skolan.
+* Vårt skolhus på Bredgatan ligger ett stenkast från Lindebergska skolan.
 * Här finns förutom klassrum, lunchmatsalen, labbsalar och replokaker.
