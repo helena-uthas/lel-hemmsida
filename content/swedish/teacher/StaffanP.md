@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Jazzkör, Tjejbarbershop, Jazzensemble, Gehörs- och musiklära"
+course: "Jazzensemble, Gehörs- och musiklära"
 cat: "Lärare"
 # biography
 bio: ""
