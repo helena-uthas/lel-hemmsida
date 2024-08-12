@@ -9,10 +9,10 @@ description : "Biträdande rektor"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Biträdande rektor"
+course: "Biträdande rektor/SYV"
 cat: "Ledningsgruppen"
 # biography
-bio: "Hanna är biträdande rektor och syokonsulent."
+bio: "Hanna är biträdande rektor samt studie- och yrkesvägledare."
 # interest
 interest: ["Måndag-Fredag","Rum: 208","Tid: 09.00-15:00"]
 # contact info

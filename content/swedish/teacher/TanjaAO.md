@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Tanja är specialpedagog och erbjuder elever hjälp med planering, utredningar och samtal kring studierna."
 # interest
-interest: ["Måndag-Onsdag","Tid: 9:00-15:00","Kontor i sal 406"]
+interest: ["Tisdag/onsdag (8:30-11:45) och torsdag-fredag","Kontor i sal 406"]
 # contact info
 contact:
   # contact item loop
@@ -23,9 +23,9 @@ contact:
     link : "mailto:tanja.arvidsson.ortner@lel.nu "
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "046-378 13 00"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel: 046-378 13 00"
 
   # contact item loop
   #- name : "Clark Malik"

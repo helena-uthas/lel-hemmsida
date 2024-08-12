@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Anne-Charlotte tar emot alla elever i behov av samtal. "
 # interest
-interest: ["Ti 08.30-15.00","On 08.30-15.00","To 08.30-15.00", "Rum 221","Enligt överenskommelse, enklast via e-post"]
+interest: ["Tisdag-torsdag (kl. 08.30-15.00)", "Rum: 221","Enligt överenskommelse, enklast via e-post"]
 
 
 # contact info
@@ -27,7 +27,7 @@ contact:
   # contact item loop
   - name : "072 - 1894 900"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:046-378 13 00"
 
   # contact item loop
   #- name : "Clark Malik"

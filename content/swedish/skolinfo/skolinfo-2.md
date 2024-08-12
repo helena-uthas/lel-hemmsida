@@ -9,5 +9,5 @@ image: "images/skolinfo/sam_riksdagen.jpg"
 description : "Samhälle"
 ---
 
-* Stadsorientering åk 1 och 3, 22/8
-* Exkursion/utflykt åk 2, 22/8
+* Tema - förintelsens minnesdag, 27/1 
+* FN rollspel, 31/3-1/4
