@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # about image
 #image: "images/about/student1.jpeg"
 # meta description
-description : "Ansökan"
+description : "Ansök"
 
 image1: "images/skolinfo/elever_banner.jpg"
 
