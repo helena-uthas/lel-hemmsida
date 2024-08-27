@@ -7,4 +7,4 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 description : "Skicka ett meddelande till oss via formuläret nedan. Det går också att nå oss på telefon direkt eller via vår email. "
 ---
 
-Kontaka oss gärna om du har frågor eller om du vill nå vår skola! Leverans och postadress är Bredgatan 13. Se kartan nedan. Vi har också lokaler på Lindebergska skolan, S:t Laurentiigatan 1, Lund.
+Kontaka oss gärna om du har frågor eller om du vill nå vår skola! Leverans och postadress är Bredgatan 13. Se kartan nedan. Vi har också lokaler på Lindebergska skolan, S:t Laurentiigatan 1, Lund. [Läs mer här om rutinerna kring klagomål.](https://docs.google.com/document/d/1UhP3JjcY0BtDx0m9KOO5QrUc6cGMKnrrkSD2ZeGbB7I/edit?usp=sharing)
