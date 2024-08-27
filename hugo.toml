@@ -432,11 +432,19 @@ weight = 6
   parent = "Kontakt"
   name = "Personal"
   url = "teacher/"
+  weight = 2
 
    [[Languages.sv.menu.main]]
   parent = "Kontakt"
   name = "Kontaktformulär"
   url = "kontakt/"
+  weight = 1
+
+   [[Languages.sv.menu.main]]
+  parent = "Kontakt"
+  name = "Ledighetsansökan"
+  url = "ledighet/"
+  weight = 3
 
 [[Languages.sv.menu.main]]
 name = "Nyheter"
