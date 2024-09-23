@@ -3,19 +3,19 @@ title: "Förklädd Gud"
 # Schedule page publish date
 publishDate: "2018-01-02T00:00:00Z"
 # event date
-date: "2024-10-25T20:00:17"
+date: "2024-10-25T17:30:17"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/bg_gud.jpg"
 # meta description
-description : "Kom och lyssna på vår paradkonsert, en fantastisk musikupplevelse av Lars-Erik Larsson - Förklädd Gud."
+description : "Kom och lyssna på vår paradkonsert, en fantastisk musikupplevelse av Lars-Erik Larsson - Förklädd Gud. Våra två konserter går kl. 17:30 och 19:30."
 # Event image
 image: "images/events/event_gud2.jpg"
 # location
 location: "Domkyrkan, Lund"
 # entry fee
-fee: "Från 200 kr"
+fee: "Vuxna 195 kr/barn 85 kr"
 # apply url
 apply_url : "#"
 # event speaker
