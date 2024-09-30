@@ -3,19 +3,19 @@ title: "Ljuskonsert"
 # Schedule page publish date
 publishDate: "2018-01-02T00:00:00Z"
 # event date
-date: "2024-12-13T20:00:17"
+date: "2024-12-13T18:00:17"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/lucia_bg.jpg"
 # meta description
-description : "Ljuskonsert"
+description : "Kom till vår ljuskonsert för en stämningsfull upplevelse! Våra två konserter går kl. 18:00 och 20:00."
 # Event image
 image: "images/events/event_lucia3.jpg"
 # location
-location: "Alhelgonakyrkan, Lund"
+location: "Allhelgonakyrkan, Lund"
 # entry fee
-fee: "Från 200 kr"
+fee: "Vuxna 195 kr/barn 85 kr"
 # apply url
 apply_url : "En stämningsfull upplevelse. "
 # event speaker
