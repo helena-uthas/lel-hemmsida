@@ -15,5 +15,5 @@ type: "notice"
 <br><br>
 ### Insparken
 
-Tvåorna bjuder LELs ettor på en härlig välkomstfest! Lekar, sång och fest står på progrmmet denna lektionsfria dag. Mer information kommer.
+Tvåorna bjuder LELs ettor på en härlig välkomstfest! Lekar, sång och fest står på progrmmet denna lektionsfria dag.
 <br><br>

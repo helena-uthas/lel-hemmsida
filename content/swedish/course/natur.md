@@ -56,17 +56,16 @@ Efter du gått det naturvetenskapliga programmet kan du läsa vidare till utbild
 ### Programmets kurser
 <br/>
 
-|Gymnasiegemensamma ämnen|p| Inriktning Natur/musik|p|Individuella val|p|
+|Gymnasiegemensamma ämnen|p| Inriktning Natur musik|p|Individuella val|p|
 |:-|:-|:-|:-|:-|:-|
-| Engelska (5,6)     |100/100    |Biologi (1, 2)              |100/100|Engelska 7|100|
-|Historia 1b           |100        |Ensemble med körsång        |200    |Ensemble 2/Manskör/Tjejbarber/Spetskör|100|
-|Idrott och hälsa 1    |100        |Fysik 1                     |150    |Fysik 2|100|
-|Matematik (1c, 2c, 3c)|100/100/100|Gehörs- och musiklära 1     |100    |Gehörs- och musiklära 2|100|
-|Religionskunskap 1    |50         |Gymnasiearbete              |100    |Idrott och hälsa 2|100|
-|Samhällskunskap 1     |100        |Kemi   (1,2)                |100/100|Matematik 5|100|
-|Svenska 1, 2, 3       |100/100/100|Körsång 2                   |100    |Moderna språk steg 1 eller 3|100|
-|                      |100        |Matematik 4                 |100    |Moderna språk steg 4|100|
-|                      |100        |Moderna språk steg 1 eller 3|100    |Musikal/Estetisk kommunikation 1|100|
+|**Engelska** (nivå 1, 2)    |100/100    |**Biologi** (nivå 1, 2) |100/100|**Engelska** (nivå 3)|100|
+|**Gymnasiearbete**           |100        |**Ensemble** (nivå 1, 2)|100/100| **Estetisk kommunikation** *Musikal* (nivå 1)|100|
+|**Historia**  (nivå 1b)      |100        |**Fysik** (nivå 1)      |150    |**Fysik** (nivå 2) |100|
+|**Idrott och hälsa** (nivå 1)|100        |**Kemi**   (nivå 1, 2)  |100/100|**Idrott och hälsa** (nivå 2) **eller Musikteori** (nivå 2)|100|
+|**Matematik** (nivå 1c, 2c)  |100/100    |**Körsång** (nivå 1)    |100/100|**Körsång** *Spetskör* (nivå 2)|100|
+|**Religionskunskap** (nivå 1)|50 |**Matematik** (fortsättning nivå 1c, 2)|100/100|**Matematik** (fördjupning nivå 1)|100|
+|**Samhällskunskap** (nivå 1b)|100 |**Moderna språk** (nybörjare eller fortsättning nivå 1)|100|**Moderna språk** (fortsättning)|100|
+|**Svenska** (nivå 1, 2, 3)   |100/100/100|**Musikteori** (nivå 1) |100|||
 
 <br/>
 

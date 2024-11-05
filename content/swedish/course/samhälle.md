@@ -44,20 +44,19 @@ Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriä
 ### Programmets kurser
 <br/>
 
-|Gymnasiegemensamma ämnen|p| Inriktning samhälle/musik|p|Individuella val|p|
+|Gymnasiegemensamma ämnen|p| Inriktning Samhälle musik|p|Individuella val|p|
 |:-|:-|:-|:-|:-|:-|
-| Engelska (5,6)     |100/100      |Filosofi 1                   |50 |Samhällskunskap 3|100|
-|Historia 1b           |100        |Psykologi 1                  |50 |Naturkunskap 2|100|
-|Idrott och hälsa 1    |100        |Moderna språk steg 1 eller 3 |200 |Moderna språk steg 2 eller 4|100|
-|Matematik (1b, 2b)    |100/100    |Geografi 1                   |100 |Moderna språk steg 3 eller 5|100|
-|Religionskunskap 1    |50         |Historia 2a                  |100 |Engelska steg 7|100|
-|Samhällskunskap 1    |100        |Religionskunskap 2           |50|Matematik 3b |100|
-|Svenska (1, 2, 3)     |100/100/100| Samhällskunskap 2           |100 |Musikal/Estetisk kommunikation 1|100|
-|Gymnasiearbete        |  100      | Körsång 2                   |100 |Gehörs- och musiklära 2|100|
-|                      |           | Gehörs- och musiklära 1     |100 |Idrott och hälsa 2|100|
-|                      |           | Ensemble med körsång        |200 | Ensemble 2/Manskör/Tjejbarber/Spetskör | 100|
-
-         
+|**Engelska** (nivå 1, 2)         |100/100    |**Ensemble** (nivå 1, 2)                                   |100|**Engelska** (nivå 3)|100|
+|**Gymnasiearbete**               |100        |**Filosofi** (nivå 1)                                      |50 |**Estetisk kommunikation** *Musikal* (nivå 1)|100|
+|**Historia** (nivå 1b)           |100        |**Geografi** (nivå 1)                                      |100|**Idrott och hälsa** (nivå 2) **eller** **Musikteori** (nivå 2)|100|
+|**Idrott och hälsa** (nivå 1)    |100        |**Historia** (nivå 2a)                                     |100|**Körsång** *Spetskör* (nivå 2) | 100|
+|**Matematik** (nivå 1b, 2b)      |100/100    |**Körsång** (nivå 1)                                       |100|**Matematik** (fortsättning nivå 1b) |100|
+|**Religionskunskap** (nivå 1)    |50         |**Moderna språk** (nybörjare **eller** fortsättning nivå 1)|200|**Moderna språk** (grund nivå 1 **eller** fortsättning nivå 2)|100|
+|**Samhällskunskap** (nivå 1)     |100        |**Musikteori** (nivå 1)                                    |100|**Naturkunskap** (nivå 2)|100|
+|**Svenska** (nivå 1, 2, 3)       |100/100/100|**Psykologi** (nivå 1)                                     |50 |**Samhällskunskap 3** (nivå 3)|100|
+|                                 |           |**Religionskunskap** (nivå 2)                              |50 | |
+|                                 |           |**Samhällskunskap** (nivå 2)                               |100| |
+      
 
 <br/>
 
