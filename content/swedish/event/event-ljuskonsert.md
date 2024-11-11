@@ -9,13 +9,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/lucia_bg.jpg"
 # meta description
-description : "Kom till vår ljuskonsert för en stämningsfull upplevelse! Våra två konserter går kl. 18:00 och 20:00."
+description : "Kom till vår ljuskonsert för en stämningsfull upplevelse! Våra två konserter går kl. 18:00 och 20:15."
 # Event image
 image: "images/events/event_lucia3.jpg"
 # location
 location: "Allhelgonakyrkan, Lund"
 # entry fee
-fee: "Vuxna 195 kr/barn 85 kr"
+fee: "Vuxna 215 kr/barn 95 kr"
 # apply url
 apply_url : "En stämningsfull upplevelse. "
 # event speaker
