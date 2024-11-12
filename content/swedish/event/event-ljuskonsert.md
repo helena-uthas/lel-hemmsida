@@ -15,7 +15,7 @@ image: "images/events/event_lucia3.jpg"
 # location
 location: "Allhelgonakyrkan, Lund"
 # entry fee
-fee: "Vuxna 215 kr/barn 95 kr"
+fee: "Vuxna 195kr/barn 85kr + avg."
 # apply url
 apply_url : "En stämningsfull upplevelse. "
 # event speaker
