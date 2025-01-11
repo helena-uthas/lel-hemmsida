@@ -3,7 +3,7 @@ title: "Öppet Hus"
 # Schedule page publish date
 publishDate: "2018-01-02T00:00:00Z"
 # event date
-date: "2024-11-12T18:00:17"
+date: "2025-01-21T18:00:17"
 # post save as draft
 draft: false
 # page title background image
@@ -17,7 +17,7 @@ location: "Bredgatan 13, Lund"
 # entry fee
 fee: "Gratis"
 # apply url
-apply_url : "Besök vårt öppna hus! Lyssna på elevernas musik och besök våra klassrum."
+apply_url : "Besök vårt öppna hus! Lyssna på elevernas musik och besök våra klassrum. Välkomna mellan 18-20!"
 # event speaker
 speaker:
   # speaker loop
