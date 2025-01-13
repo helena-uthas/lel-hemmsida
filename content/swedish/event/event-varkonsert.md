@@ -1,7 +1,7 @@
 ---
 title: "Vårkonsert"
 # Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2025-01-03T00:00:00Z"
 # event date
 date: "2025-04-11T18:00:17"
 # post save as draft
