@@ -1,31 +1,31 @@
 ---
 weight: 20
-title: "Hanna Ahnfors"
+title: "Annika Lind"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
-description : "Biträdande rektor"
+description : "SYV"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Biträdande rektor/SYV"
+course: "SYV"
 cat: "Ledningsgruppen"
 # biography
-bio: "Hanna är biträdande rektor samt studie- och yrkesvägledare."
+bio: "Annika är studie- och yrkesvägledare."
 # interest
-interest: ["Måndag-Fredag","Rum: 208","Tid: 09.00-15:00"]
+interest: ["Tisdag-Onsdag","Rum: 208","Tid: 09.00-17:00"]
 # contact info
 contact:
   # contact item loop
-  - name : "hanna.ahnfors@lel.nu "
+  - name : "annika.lind@lel.nu"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:hanna.ahnfors@lel.nu"
+    link : "mailto:annika.lind@lel.nu"
 
   # contact item loop
-  - name : "046-3781301"
+  - name : ""
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:046-3781301"
+    link : "tel:"
 
   # contact item loop
   #- name : "Clark Malik"
