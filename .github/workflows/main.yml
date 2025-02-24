@@ -52,16 +52,13 @@ jobs:
       - name: Publish to GitHub Pages
         run: npm run build
 
-      - name: Archive Public Directory
-        run: zip -r public.zip public
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3 
         with:
-          name: site-artifact
-          path: public.zip
-          include-hidden-files: true
+          path: public/
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
@@ -69,14 +66,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Download Artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: site-artifact
-
-      - name: Unzip Artifact
-        run: unzip -o public.zip -d public
-
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
+
