@@ -9,13 +9,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/konsert3.jpg"
 # meta description
-description : "Kom till slakthuset och rocka loss."
+description : "Kom till Mejeriet i Lund och rocka loss."
 # Event image
 image: "images/events/event_lelel.jpg"
 # location
 location: "Mejeriet, Lund"
 # entry fee
-fee: "Från 200 kr"
+fee: "Vuxna 195kr/barn 85kr + avg"
 # apply url
 apply_url : "#"
 # event speaker
@@ -73,4 +73,4 @@ gallery:
 
 ### OM LEL-EL
 
-Denna rockiga konsert är en av LELs härligaste musikupplevlser. Här kan du lyssna på både moderna och klassika rocklåtar i fantastisk "feel-good" anda. 
+Denna rockiga konsert är en av LELs härligaste musikupplevlser. Här kan du lyssna på både moderna och klassika rocklåtar i fantastisk "feel-good" anda. <a href=" https://secure.tickster.com/sv/kugxe2h67jyk8ak/products" target="_blank">Köp biljett direkt från Mejeriet här.</a>

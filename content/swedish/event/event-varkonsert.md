@@ -15,7 +15,7 @@ image: "images/events/event_varen.jpg"
 # location
 location: "Folkparken, Lund"
 # entry fee
-fee: "Från 300 kr"
+fee: "Vuxna 195kr/barn 85kr + avg"
 # apply url
 apply_url : "#"
 # event speaker
