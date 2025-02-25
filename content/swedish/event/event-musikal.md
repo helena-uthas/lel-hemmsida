@@ -9,9 +9,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/bg_musikal.jpg"
 # meta description
-description : "Vad blir detta läsårs musikal?"
+description : "Välkomna till LELs uppsättning av High School Musical!"
 # Event image
-image: "images/events/event_shrek.jpg"
+image: "images/events/event_hsm.jpg"
 # location
 location: "Lunds stadsteater, Lund"
 # entry fee
@@ -83,7 +83,7 @@ gallery:
 
 ---
 
-*Varje år anordnar LEL en musikal. Detta är en del av kursen Estetisk kommunikation, som eleverna har möjlighet att välja i årskurs 3. Under året får de som valt kursen jobba intensivt med dans, sång/musik och teater för att få ihop bästa möjliga produktion som sedan spelas på Lunds stadsteater i slutet av läsåret. Man arbetar även med alla andra delar som behövs för att en produktion ska gå ihop, såsom kostym, scenografi, PR, rekvisita, smink m.m. Genom kursen får eleverna kunskap i vad som krävs för att sätta upp en musikalföreställning och får göra detta tillsammans med pedagoger och yrkesverksamma som har mycket erfarenhet inom sina olika fält.*
+*Varje år anordnar LEL en musikal. Detta är en del av kursen Estetisk kommunikation, som eleverna har möjlighet att välja i årskurs 3. Under året får de som valt kursen jobba intensivt med dans, sång/musik och teater för att få ihop bästa möjliga produktion som sedan spelas på Lunds stadsteater i slutet av läsåret. Man arbetar även med alla andra delar som behövs för att en produktion ska gå ihop, såsom kostym, scenografi, PR, rekvisita, smink m.m. Genom kursen får eleverna kunskap i vad som krävs för att sätta upp en musikalföreställning och får göra detta tillsammans med pedagoger och yrkesverksamma som har mycket erfarenhet inom sina olika fält.* 
 <br/><br/>
 
 ### Musikalen Shrek 2024
