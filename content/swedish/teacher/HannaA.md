@@ -10,7 +10,7 @@ description : "SYV"
 image: "images/personal/vit.jpg"
 # course
 course: "SYV"
-cat: "Ledningsgruppen"
+cat: "SYV"
 # biography
 bio: "Annika är studie- och yrkesvägledare."
 # interest
