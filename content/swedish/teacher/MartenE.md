@@ -10,7 +10,7 @@ description : "Rektor"
 image: "images/personal/vit.jpg"
 # course
 course: "Rektor"
-cat: "Ledningsgruppen"
+cat: "Rektor"
 # biography
 bio: "Mårten är rektor på LEL. "
 # interest
