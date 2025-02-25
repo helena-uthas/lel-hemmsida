@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/springconsert.jpg"
 # meta description
-description : "Kom och sjung in våren med LEL "
+description : "Kom och sjung in våren med LEL. Våra två konserter går kl. 18:00 och 20:00. "
 # Event image
 image: "images/events/event_varen.jpg"
 # location
@@ -54,4 +54,4 @@ gallery:
 
 ### Om vårkonserten
 
-LEL välkomnar våren med en flerstämmig kör och musikupplevelse i Folkets park. Här blandas modernt och klassiskt och eleverna får visa sin breda repetorar.  
+LEL välkomnar våren med en flerstämmig kör och musikupplevelse i Folkets park. Här blandas modernt och klassiskt och eleverna får visa sin breda repetorar. 
