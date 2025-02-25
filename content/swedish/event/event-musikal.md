@@ -89,3 +89,7 @@ gallery:
 ### Musikalen Shrek 2024
 
 I slutet av maj satte avgångseleverna upp musikalen Shrek på Lunds stadsteater. Samtliga föreställningar var fullsatta och publiken bjöds på en varm och färgstark upplevelse genom musik, sång och dans. Treorna fyllde scenen, orkesterdiket och kulisserna, guidade av duktiga lärare och handledare. Shrekmusikalens tema om att olikheter är bra bars fram av den stora ensemblen föreställande sagofigurer i alla dess former. Budskapet blev extra tydligt i slutscenen där alla dansade och sjöng tillsammans. LEL är en skola där man får vara den man är och därför blev temat extra tydligt.
+
+### Årets musikal 2025 - High School Musical
+
+High School Musical är en berättelse om gymnasieelever som vågar följa sina drömmar och utmana normer. I denna berättelse får ni möta Troy, en populär basketspelare, och Gabriella, en ambitiös tjej med en passion för sång. När de oväntat möts under auditionerna för skolans musikal tvingas de konfrontera förväntningarna från omgivningen. Genom musik och dans lär de sig att äkta vänskap och mod kan övervinna hinder och att man alltid bör vara sann mot sig själv. 
