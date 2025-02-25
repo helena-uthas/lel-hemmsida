@@ -17,4 +17,9 @@ type: "notice"
 
 LEL välkomnar våren med en flerstämmig kör och musikupplevelse i Folkets park. Här blandas modernt och klassiskt och eleverna får visa sin breda repetorar. Våra två konserter går kl. 18:00 och 20:00 i Folkparken, Lund. Biljettpriset är för vuxna 195kr och barn 85kr + avg. [Läs mer här!]({{< ref "/event/event-varkonsert" >}} "Vårkonsert")  
 
+* Första föreställnignen: kl. 18:00 
+
+* Andra föreställnignen: kl. 20:00
+
+
 <br><br>
