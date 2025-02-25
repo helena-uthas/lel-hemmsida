@@ -1,11 +1,11 @@
 ---
-title: "LELEL 2025"
+title: "LEL-EL 2/3 2025"
 date: "2025-03-02T18:00:17"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
-description : "Kom till LEL-el"
+description : "LEL-el"
 # notice download link
 download_link : "#"
 # type
