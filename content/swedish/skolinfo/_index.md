@@ -9,39 +9,52 @@ image: "images/skolinfo/elever.jpg"
 description : "Viktiga datum för läsåret 2024/2025"
 ---
 
-
 ## LÄSÅRSTIDER 
-
-<strong>Höstterminen 2024</strong>
-
-* Terminsstart: 13/8 
-* Insparken: 3/9
-* Föräldramöte (åk 1): 11/9
-* Fotografering: 30/9
-* Förklädd gud: 25/10
-* Höstlovet: 28/10-3/11 (vecka 44)
-* Öppet hus: 12/11
-* Ljuskonsert: 13/12 
-* Julavslutning: 20/12 
-* Jullovet: 21/12-8/1
 
 <strong>Vårterminen 2025</strong>
 
 * Öppet hus: 21/1
 * LEL-EL: 2/3
 * Sportlovet: 17-23/2 (vecka 8)
+* Utvecklingsdag: 2/4
 * Vårkonsert: 11/4
 * Påsklovet: 14-21/4 (vecka 16)
 * Våren sjungs in: 30/4
 * Musikal: 23-24/5
+* Utvecklingsdag: 13/5 
 * Andra lovdagar: 21/4 samt 29-30/5
 * Studenten: 5/6
 * Sommaravslutning: 10/6
 
-<strong>Utvecklingsdagar:</strong>
+<strong>Höstterminen 2025</strong>
 
-* 12/8
-* 14/11
-* 11/2
-* 2/4
-* 13/5
+* Terminsstart: 13/8 
+* Insparken: 2/9
+* Föräldramöte åk1: 10/9 
+* Förklädd gud: 24/10 
+* Höstlovet: 27/10-31/10 (vecka 44)
+* Utvecklingsdag: 3/11
+* Öppet hus: 
+* Ljuskonsert: 13/12
+* Julavslutning: 22/12
+* Jullovet: 23/12-9/1
+
+<strong>Vårterminen 2026</strong>
+
+* Vårterminens lektioner startar: 12/1
+* Öppet hus: 20/1
+* LEL-EL: 2/3
+* Utvecklingsdag: 10/2
+* Sportlovet: 16-20/2 (vecka 8)
+* LEL-EL: 1/3
+* Utvecklingsdag: 2/3
+* Utvecklingsdag: 17/3
+* Vårkonsert: 27/3
+* Påsklovet: 30/3-6/4 (vecka 14)
+* Våren sjungs in: 30/4
+* Utvecklingsdag: 13/5
+* Andra lovdagar: 21/4 samt 29-30/5
+* Studenten: 2/6
+* Friluftsdag: 4/6
+* Sommaravslutning: 9/6
+
