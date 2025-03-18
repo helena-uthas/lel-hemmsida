@@ -14,5 +14,5 @@ description : "natur"
 * Inspirationsdag på Lunds Universitet, 5/11
 * Tema - förintelsens minnesdag, 27/1 
 * Biologiolympiaden, 31/1
-* NMT-dagarna, 10/3
+* NMT-dagarna, 18/3
 * FN rollspel, 31/3-1/4
