@@ -53,7 +53,7 @@ description : "Viktiga datum för läsåret 2024/2025"
 * Våren sjungs in: 30/4
 * Utvecklingsdag: 13/5
 * Andra lovdagar: 21/4, 15/5
-* Studenten: 5/6
 * Friluftsdag: 4/6
+* Studenten: 5/6
 * Sommaravslutning: 9/6
 
