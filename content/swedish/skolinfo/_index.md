@@ -14,7 +14,7 @@ description : "Viktiga datum för läsåret 2024/2025"
 <strong>Vårterminen 2025</strong>
 
 * Öppet hus: 21/1
-* LEL-EL: 2/3
+* LEL-EL: 1/3
 * Sportlovet: 17-23/2 (vecka 8)
 * Utvecklingsdag: 2/4
 * Vårkonsert: 11/4
@@ -31,10 +31,10 @@ description : "Viktiga datum för läsåret 2024/2025"
 * Terminsstart: 13/8 
 * Insparken: 2/9
 * Föräldramöte åk1: 10/9 
+* Öppet hus: 11/10
 * Förklädd gud: 24/10 
 * Höstlovet: 27/10-31/10 (vecka 44)
 * Utvecklingsdag: 3/11
-* Öppet hus: 
 * Ljuskonsert: 13/12
 * Julavslutning: 22/12
 * Jullovet: 23/12-9/1
@@ -43,7 +43,6 @@ description : "Viktiga datum för läsåret 2024/2025"
 
 * Vårterminens lektioner startar: 12/1
 * Öppet hus: 20/1
-* LEL-EL: 2/3
 * Utvecklingsdag: 10/2
 * Sportlovet: 16-20/2 (vecka 8)
 * LEL-EL: 1/3
@@ -53,8 +52,8 @@ description : "Viktiga datum för läsåret 2024/2025"
 * Påsklovet: 30/3-6/4 (vecka 14)
 * Våren sjungs in: 30/4
 * Utvecklingsdag: 13/5
-* Andra lovdagar: 21/4 samt 29-30/5
-* Studenten: 2/6
+* Andra lovdagar: 21/4, 15/5
+* Studenten: 5/6
 * Friluftsdag: 4/6
 * Sommaravslutning: 9/6
 
