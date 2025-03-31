@@ -1,6 +1,6 @@
 ---
 weight: 30
-title: "Eva Hjärne"
+title: "Anna Bergner Andersen"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -11,15 +11,15 @@ image: "images/personal/vit.jpg"
 # course
 course: "Administration"
 # biography
-bio: "Eva ansvarar för ekonomi."
+bio: "Anna ansvarar för ekonomi."
 # interest
-interest: ["Måndag-Torsdag","Tid: 09.00-15:00","Kontor i sal B10/113"]
+interest: ["Tisdag-fredag","Tid: 09.00-16:00","Kontor i sal B10/113"]
 # contact info
 contact:
   # contact item loop
-  - name : "eva.hjarne@lel.nu "
+  - name : "anna.bergner.andersen@lel.nu"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:eva.hjarne@lel.nu "
+    link : "mailto:anna.bergner.andersen@lel.nu"
 
   # contact item loop
   - name : "046-378 13 00"
