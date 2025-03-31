@@ -1,6 +1,6 @@
 ---
 title: "UTSLÄPPET 2025"
-date: "2025-03-02T18:00:17"
+date: "2025-06-05T18:00:17"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
