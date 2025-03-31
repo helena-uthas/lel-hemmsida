@@ -13,7 +13,7 @@ type: "notice"
 ---
 
 <br><br>
-### Information om UTSLÄPPET torsdagen den 5 juni 2025!
+### Information om UTSLÄPPET torsdagen den 5 juni 2025
 
 * Åk 3 följer att särskilt program under utsläppsdagen mellan kl 08.30-15.15.
 

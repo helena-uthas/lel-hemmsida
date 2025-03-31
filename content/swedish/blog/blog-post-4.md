@@ -17,7 +17,7 @@ tags: ["elever", "samhälle", "internationalisering"]
 type: "post"
 ---
 
-### LELs FN rollspel 2023
+### LELs FN rollspel
 
 LEL anordnar årligen ett 2-dagarsrollspel under vårterminen. Detta ger en möjlighet för elever att diskutera internationella politiska frågor utifrån olika länders perspektiv. Förberedelserna pågår under fem veckor och leds av samhällskunskapslärarna tillsammans med elever från samhällsprogrammet i årskurs tre. Förberedelsetiden består av föreläsningar, kartläggning av länders position i frågorna på dagordningen, argumentation och presentationsteknik samt FN-stugor där elever hjälper elever. 
 
