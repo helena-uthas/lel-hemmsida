@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/bg_musikal.jpg"
 # meta description
-description : "Välkomna till LELs uppsättning av High School Musical!"
+description : "Välkomna till LELs uppsättning av High School Musical! Gå på någon av de tre föreställningarna den 23 eller 24 maj."
 # Event image
 image: "images/events/event_hsm.jpg"
 # location
@@ -82,14 +82,23 @@ gallery:
 
 
 ---
+### Årets föreställningar
+
+**Biljettsläpp: 2025-04-23 09:00**
+
+* Fredagen den 23 maj kl. 19.00
+* Lördagen den 24 maj kl. 14.30
+* Lördagen den 24 maj kl. 19.00
+<br/><br/>
 
 *Varje år anordnar LEL en musikal. Detta är en del av kursen Estetisk kommunikation, som eleverna har möjlighet att välja i årskurs 3. Under året får de som valt kursen jobba intensivt med dans, sång/musik och teater för att få ihop bästa möjliga produktion som sedan spelas på Lunds stadsteater i slutet av läsåret. Man arbetar även med alla andra delar som behövs för att en produktion ska gå ihop, såsom kostym, scenografi, PR, rekvisita, smink m.m. Genom kursen får eleverna kunskap i vad som krävs för att sätta upp en musikalföreställning och får göra detta tillsammans med pedagoger och yrkesverksamma som har mycket erfarenhet inom sina olika fält.* 
 <br/><br/>
+
+### Årets musikal 2025 - High School Musical
+
+High School Musical är en berättelse om gymnasieelever som vågar följa sina drömmar och utmana normer. I denna berättelse får ni möta Troy, en populär basketspelare, och Gabriella, en ambitiös tjej med en passion för sång. När de oväntat möts under auditionerna för skolans musikal tvingas de konfrontera förväntningarna från omgivningen. Genom musik och dans lär de sig att äkta vänskap och mod kan övervinna hinder och att man alltid bör vara sann mot sig själv. 
 
 ### Musikalen Shrek 2024
 
 I slutet av maj satte avgångseleverna upp musikalen Shrek på Lunds stadsteater. Samtliga föreställningar var fullsatta och publiken bjöds på en varm och färgstark upplevelse genom musik, sång och dans. Treorna fyllde scenen, orkesterdiket och kulisserna, guidade av duktiga lärare och handledare. Shrekmusikalens tema om att olikheter är bra bars fram av den stora ensemblen föreställande sagofigurer i alla dess former. Budskapet blev extra tydligt i slutscenen där alla dansade och sjöng tillsammans. LEL är en skola där man får vara den man är och därför blev temat extra tydligt.
 
-### Årets musikal 2025 - High School Musical
-
-High School Musical är en berättelse om gymnasieelever som vågar följa sina drömmar och utmana normer. I denna berättelse får ni möta Troy, en populär basketspelare, och Gabriella, en ambitiös tjej med en passion för sång. När de oväntat möts under auditionerna för skolans musikal tvingas de konfrontera förväntningarna från omgivningen. Genom musik och dans lär de sig att äkta vänskap och mod kan övervinna hinder och att man alltid bör vara sann mot sig själv. 
