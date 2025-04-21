@@ -23,8 +23,6 @@ type: "notice"
 <br/><br/>
 
 
-### Årets musikal 2025 - High School Musical
-
 High School Musical är en berättelse om gymnasieelever som vågar följa sina drömmar och utmana normer. I denna berättelse får ni möta Troy, en populär basketspelare, och Gabriella, en ambitiös tjej med en passion för sång. När de oväntat möts under auditionerna för skolans musikal tvingas de konfrontera förväntningarna från omgivningen. Genom musik och dans lär de sig att äkta vänskap och mod kan övervinna hinder och att man alltid bör vara sann mot sig själv. 
 
 
