@@ -15,7 +15,7 @@ image: "images/events/event_hsm.jpg"
 # location
 location: "Lunds stadsteater, Lund"
 # entry fee
-fee: "Vuxna 195kr/barn 85kr + avg"
+fee: "Vuxna 215kr/barn 95kr"
 # apply url
 apply_url : "#"
 # event speaker
