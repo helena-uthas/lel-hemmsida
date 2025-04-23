@@ -26,18 +26,18 @@ type: "notice"
 
 ### Information till studenterna i åk 3
 
-08.30: Studenter och mentorer umgås. Planeringen sker i klassen i god tid före utsläppsdagen.
-11.00: SAMLING i aulan för elever i åk 3.
-11.10: Promenad till Kulturen för gemensam lunch.
-11.30: Gemensam lunch på Kulturen för avgångselever och personal.
-13.00: Fotografering på skolan
-	NA22A: 13.00
-	NA22B: 13.15
- 	SA22:  13.30
-12.45: Promenad tillbaka till skolan.
-14.00: Underhållning i Matsalen.
-15.15: Högtidsstund i aulan.
-16.00: UTSLÄPP stora trappan Lindebergska skolan – Familj/vänner tar emot.
+* 08.30: Studenter och mentorer umgås. Planeringen sker i klassen i god tid före utsläppsdagen.
+* 11.00: SAMLING i aulan för elever i åk 3.
+* 11.10: Promenad till Kulturen för gemensam lunch.
+* 11.30: Gemensam lunch på Kulturen för avgångselever och personal.
+* 13.00: Fotografering på skolan
+	- NA22A: 13.00
+	- NA22B: 13.15
+ 	- SA22:  13.30
+* 12.45: Promenad tillbaka till skolan.
+* 14.00: Underhållning i Matsalen.
+* 15.15: Högtidsstund i aulan.
+* 16.00: UTSLÄPP stora trappan Lindebergska skolan – Familj/vänner tar emot.
 
 
 
