@@ -18,7 +18,7 @@ slider:
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa konsert: LEL-EL"
+    - title : "Nästa konsert: Förklädd Gud"
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
