@@ -6,25 +6,10 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # image
 image: "images/skolinfo/elever.jpg"
 # meta description
-description : "Viktiga datum för läsåret 2024/2025"
+description : "Viktiga datum för läsåret 2025/2026"
 ---
 
 ## LÄSÅRSTIDER 
-
-<strong>Vårterminen 2025</strong>
-
-* Öppet hus: 21/1
-* LEL-EL: 1/3
-* Sportlovet: 17-23/2 (vecka 8)
-* Utvecklingsdag: 2/4
-* Vårkonsert: 11/4
-* Påsklovet: 14-21/4 (vecka 16)
-* Våren sjungs in: 30/4
-* Musikal: 23-24/5
-* Utvecklingsdag: 13/5 
-* Andra lovdagar: 21/4 samt 29-30/5
-* Studenten: 5/6
-* Sommaravslutning: 10/6
 
 <strong>Höstterminen 2025</strong>
 
@@ -51,6 +36,7 @@ description : "Viktiga datum för läsåret 2024/2025"
 * Vårkonsert: 27/3
 * Påsklovet: 30/3-6/4 (vecka 14)
 * Våren sjungs in: 30/4
+* LELs musikal: 8-9/5
 * Utvecklingsdag: 13/5
 * Andra lovdagar: 15/5
 * Friluftsdag: 4/6
