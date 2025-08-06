@@ -9,10 +9,10 @@ image: "images/skolinfo/konserter.jpg"
 description : "konserter"
 ---
 
-* Konsert med spetskören (Allhelgona kyran) 16/10
-* Förklädd gud (Domkyrkan) 25/10
+* Konsert med spetskören (datum kommer)
+* Förklädd gud (Domkyrkan) 24/10
 * Ljuskonsert (Allhelgona kyrkan) 13/12
-* LEL-EL: 2/3
-* Vårkonsert: 11/4
+* LEL-EL: 1/3
+* Vårkonsert: 27/3
 * Våren sjungs in: 30/4
-* Musikal: 23-24/5
+* Musikal: 8-9/5

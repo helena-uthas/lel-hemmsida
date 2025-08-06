@@ -9,5 +9,5 @@ image: "images/skolinfo/sam_riksdagen.jpg"
 description : "Samhälle"
 ---
 
-* Tema - förintelsens minnesdag, 27/1 
-* FN rollspel, 31/3-1/4
+* Datum för läsåret 2025/2026 kommer snart!
+

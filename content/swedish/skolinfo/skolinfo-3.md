@@ -9,10 +9,4 @@ image: "images/skolinfo/stock_labb.jpg"
 description : "natur"
 ---
 
-* 
-* Studiebesök i Taastrup, 17/10
-* Inspirationsdag på Lunds Universitet, 5/11
-* Tema - förintelsens minnesdag, 27/1 
-* Biologiolympiaden, 31/1
-* NMT-dagarna, 18/3
-* FN rollspel, 31/3-1/4
+* Datum för läsåret 2025/2026 kommer snart!
