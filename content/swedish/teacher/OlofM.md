@@ -1,26 +1,25 @@
 ---
 weight: 80
-title: "Anna Björesten Öberg"
+title: "Olof Magnusson"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
-description : "Lärare"
+description : "Idrott och hälsa"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Tyska och spanska"
-cat: "Lärare"
+course: "Idrott och hälsa"
 # biography
-bio: ""
+#bio: ""
 # interest
-interest: ["Måndag - Fredag","Kontor i sal 207"]
+interest: ["Torsdag"]
 # contact info
 contact:
   # contact item loop
-  - name : "anna.bjoresten.oberg@lel.nu "
+  - name : "olof.magnusson@lel.nu"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:anna.bjoresten.oberg@lel.nu "
+    link : "mailto:olof.magnusson@lel.nu "
 
   # contact item loop
   - name : "046-378 13 00"
@@ -48,9 +47,8 @@ contact:
   #  link : "#"
 
   # contact item loop
-  - name : "Sankt Laurentiigatan 1, Lund"
-    icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Bredgatan 13, Lund"
+  #  link : "#"
 
 # type
 type: "teacher"

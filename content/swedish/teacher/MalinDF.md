@@ -9,12 +9,12 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Samhällskunskap/Geografi"
+course: "Samhällskunskap och geografi"
 cat: "Lärare"
 # biography
 bio: "Malin är förstelärare för samhällsprogrammet. "
 # interest
-interest: ["Tisdag - Fredag","Kontor i sal B40/404"]
+interest: ["Måndag - Fredag","Kontor i sal B40/404"]
 # contact info
 contact:
   # contact item loop

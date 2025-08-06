@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Gehörs- och musiklära, Ensemble"
+course: "Gehörs- och musiklära, ensemble"
 cat: "Lärare"
 # biography
 bio: ""

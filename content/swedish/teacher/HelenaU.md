@@ -9,12 +9,12 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Fysik/Naturkunskap"
+course: "Fysik och naturkunskap"
 cat: "Lärare"
 # biography
 bio: ""
 # interest
-interest: ["Tisdag-Fredag","Kontor i sal B21/203"]
+interest: ["Måndag-Onsdag/Fredag","Kontor i sal B21/203"]
 # contact info
 contact:
   # contact item loop

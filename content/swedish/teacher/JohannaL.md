@@ -1,6 +1,6 @@
 ---
 weight: 80
-title: "Anna Björesten Öberg"
+title: "Johanna Lindeskog"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -9,18 +9,18 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Tyska och spanska"
+course: "Engelska och naturkunskap"
 cat: "Lärare"
 # biography
 bio: ""
 # interest
-interest: ["Måndag - Fredag","Kontor i sal 207"]
+interest: ["Onsdag/Fredag","Kontor i sal 207"]
 # contact info
 contact:
   # contact item loop
-  - name : "anna.bjoresten.oberg@lel.nu "
+  - name : "johanna.lindeskog@lel.nu"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:anna.bjoresten.oberg@lel.nu "
+    link : "mailto:johanna.lindeskog@lel.nu"
 
   # contact item loop
   - name : "046-378 13 00"

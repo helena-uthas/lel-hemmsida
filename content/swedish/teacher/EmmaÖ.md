@@ -9,12 +9,12 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Musikal"
+course: "Musikal, körsång och gospelkör"
 cat: "Lärare"
 # biography
 bio: ""
 # interest
-interest: ["Måndag, Onsdag - Fredag","Kontor i sal 209"]
+interest: ["Måndag - Torsdag","Kontor i sal 209"]
 # contact info
 contact:
   # contact item loop

@@ -9,10 +9,10 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Svenska/Historia"
+course: "Svenska och historia"
 cat: "Lärare"
 # biography
-bio: "Tidigare erfarenher?"
+bio: ""
 # interest
 interest: ["Måndag - Fredag","Kontor i sal 207"]
 # contact info

@@ -9,7 +9,7 @@ description : "Städ och vaktmästetri"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Vaktmästeri/städ"
+course: "Vaktmästeri och städ"
 cat: "Städ"
 # biography
 bio: "Eva ansvarar för vård av lokalerna på Bredgatan 13."

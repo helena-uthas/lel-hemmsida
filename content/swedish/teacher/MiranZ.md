@@ -9,12 +9,12 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Religionskunskap/Historia"
+course: "Religionskunskap och historia"
 category: "Lärare"
 # biography
 bio: "Ansvarar för schemaläggning och IT frågor."
 # interest
-interest: ["Måndag - Torsdag","Kontor i sal B40/404"]
+interest: ["Måndag - Fredag","Kontor i sal B40/404"]
 # contact info
 contact:
   # contact item loop

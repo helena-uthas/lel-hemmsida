@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Biologi/Naturkunskap"
+course: "Biologi och naturkunskap"
 category: "Lärare"
 # biography
 bio: "Ola har varit lärare på LEL sedan 2007. Han är mycket intresserad av hållbar utveckling med inriktning mot biologisk mångfald. Specialintressen är fåglar och insekter. År 2017 fick Ola Ingvar Lindqvistpriset som varje år delas ut till engagerade och nytänkande lärare."
