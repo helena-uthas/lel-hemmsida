@@ -1,6 +1,6 @@
 ---
-weight: 15
-title: "Hanna Ahnfors"
+weight: 20
+title: "Annika Lind"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -9,18 +9,18 @@ description : "SYV"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "biträdande rektor"
-cat: "Rektor"
+course: "SYV"
+cat: "SYV"
 # biography
-bio: "Hann är biträdande rektor på LEL."
+bio: "Annika är studie- och yrkesvägledare."
 # interest
-interest: ["Måndag, onsdag","Rum: 208","Tid: 08.00-16:00"]
+interest: ["Tisdag-Onsdag","Rum: 208","Tid: 08.00-16:00"]
 # contact info
 contact:
   # contact item loop
-  - name : "hanna.ahnfors@lel.nu "
+  - name : "annika.lind@lel.nu"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:hanna.ahnfors@lel.nu "
+    link : "mailto:annika.lind@lel.nu"
 
   # contact item loop
   - name : ""
