@@ -9,7 +9,7 @@ description : "SYV"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "biträdande rektor"
+course: "Biträdande rektor"
 cat: "Rektor"
 # biography
 bio: "Hanna är biträdande rektor på LEL."
