@@ -12,7 +12,7 @@ image: "images/personal/vit.jpg"
 course: "biträdande rektor"
 cat: "Rektor"
 # biography
-bio: "Hann är biträdande rektor på LEL."
+bio: "Hanna är biträdande rektor på LEL."
 # interest
 interest: ["Måndag, onsdag","Rum: 208","Tid: 08.00-16:00"]
 # contact info
