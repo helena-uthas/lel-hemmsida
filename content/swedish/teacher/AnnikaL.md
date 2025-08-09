@@ -14,7 +14,7 @@ cat: "SYV"
 # biography
 bio: "Annika är studie- och yrkesvägledare."
 # interest
-interest: ["Tisdag-Onsdag","Rum: 208","Tid: 08.00-16:00"]
+interest: ["Tisdag-onsdag","Rum: 208","Tid: 08.00-16:00"]
 # contact info
 contact:
   # contact item loop

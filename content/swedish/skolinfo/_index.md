@@ -43,3 +43,17 @@ description : "Viktiga datum för läsåret 2025/2026"
 * Studenten: 5/6
 * Sommaravslutning: 9/6
 
+<strong>Slutprov</strong> 
+
+* Matematik 2c (NA24) 6/10
+* Kemi 1 (NA24) 11/12
+
+<strong>Nationella prov</strong> 
+
+* Matematik 4 (NA23) 17/12
+* Svenska 2a/3 (NASA23) 15/4
+* Engelska 6 del C (NASA24) 21/4
+* Engelska 6 del B (NASA24) 23/4
+* Matematik 3c (NA24) 18/5
+* Matematik 2b (SA24) 19/5
+
