@@ -14,7 +14,7 @@ cat: "Rektor"
 # biography
 bio: "Mårten är rektor på LEL. "
 # interest
-interest: ["Måndag-Fredag","Tid: 08.30-17:00","Kontor i sal B20/202"]
+interest: ["Måndag-fredag","Tid: 08.30-17:00","Kontor i sal B20/202"]
 # contact info
 contact:
   # contact item loop

@@ -14,7 +14,7 @@ cat: "Lärare"
 # biography
 bio: "Annika är förelärare för naturprogrammet."
 # interest
-interest: ["Måndag-Fredag","Kontor i sal B21/203"]
+interest: ["Måndag-fredag","Kontor i sal B21/203"]
 # contact info
 contact:
   # contact item loop

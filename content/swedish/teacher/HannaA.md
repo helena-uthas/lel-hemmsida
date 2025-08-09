@@ -14,7 +14,7 @@ cat: "Rektor"
 # biography
 bio: "Hanna är biträdande rektor på LEL."
 # interest
-interest: ["Måndag, onsdag","Rum: 208","Tid: 08.00-16:00"]
+interest: ["Måndag, torsdag","Rum: 208","Tid: 08.00-16:00"]
 # contact info
 contact:
   # contact item loop

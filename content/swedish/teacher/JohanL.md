@@ -13,7 +13,7 @@ course: "Idrott och hälsa"
 # biography
 #bio: ""
 # interest
-interest: ["Onsdag/Torsdag"]
+interest: ["Onsdag-torsdag"]
 # contact info
 contact:
   # contact item loop

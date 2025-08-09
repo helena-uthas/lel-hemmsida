@@ -14,7 +14,7 @@ cat: "Lärare"
 # biography
 bio: ""
 # interest
-interest: ["Måndag-Onsdag/Fredag","Kontor i sal B21/203"]
+interest: ["Måndag-onsdag/fredag","Kontor i sal B21/203"]
 # contact info
 contact:
   # contact item loop

@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Liselott är leg. sjuksköterska och LELs skolsköterska. Hon tar hand om allt från hälsokontroller till individuell kontakt med elever."
 # interest
-interest: [ "Tisdag (10.00-14.00) och onsdag (08.30-17.00)", "Rum: 203", "Möte enligt överenskommelse"]
+interest: [ "Onsdag och torsdag (udda veckor)", "Rum: 203", "Möte enligt överenskommelse"]
 
 
 # contact info

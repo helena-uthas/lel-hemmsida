@@ -14,7 +14,7 @@ cat: "Lärare"
 # biography
 bio: "Malin är förstelärare för samhällsprogrammet. "
 # interest
-interest: ["Måndag - Fredag","Kontor i sal B40/404"]
+interest: ["Måndag - fredag","Kontor i sal B40/404"]
 # contact info
 contact:
   # contact item loop
