@@ -16,10 +16,10 @@ description : "Viktiga datum för läsåret 2025/2026"
 * Terminsstart: 13/8 
 * Insparken: 2/9
 * Föräldramöte åk1: 10/9 
-* Öppet hus: 11/10
 * Förklädd gud: 24/10 
 * Höstlovet: 27/10-31/10 (vecka 44)
 * Utvecklingsdag: 3/11
+* Öppet hus: 11/11
 * Ljuskonsert: 13/12
 * Julavslutning: 22/12
 * Jullovet: 23/12-9/1

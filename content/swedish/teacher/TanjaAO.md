@@ -14,7 +14,7 @@ cat: "Elevhälsa"
 # biography
 bio: "Tanja är specialpedagog och erbjuder elever hjälp med planering, utredningar och samtal kring studierna."
 # interest
-interest: ["Tisdag/onsdag (8:30-11:45) och torsdag-fredag","Kontor i sal 406"]
+interest: ["måndag-onsdag (heldag) och torsdag (halvdag)","Kontor i sal 406"]
 # contact info
 contact:
   # contact item loop
