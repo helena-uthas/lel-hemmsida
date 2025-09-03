@@ -72,7 +72,7 @@ Efter du gått det naturvetenskapliga programmet kan du läsa vidare till utbild
 
 ### Att ansöka
 
-Du ansöker till LELs naturvetenskapliga program med musikprofil via Lunds kommuns gymnasieantagning. Denna öppnar i februari varje år och ansökningen stänger en månad senare. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition. Du kan [läsa mer om hela ansökningsprocessen här]({{< ref "/apply" >}} "apply") . 
+Du ansöker till LELs naturvetenskapliga program med musikprofil via Lunds kommuns gymnasieantagning. Denna öppnar den 15/1 varje år och ansökningen stänger den 15/2. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition. Du kan [läsa mer om hela ansökningsprocessen här]({{< ref "/apply" >}} "apply") . 
 
 
 
