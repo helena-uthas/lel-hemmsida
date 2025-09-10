@@ -31,6 +31,7 @@ title3: "Elever bildar själva utskotten"
 - LELs HBTQ-utskott
 - LELs Teaterutskott
 - LELs Filmutskott
+- LELs Pokerutskott
 - Hantverksutskottet
 - MåBra-utskottet
 - Litterära utskottet
