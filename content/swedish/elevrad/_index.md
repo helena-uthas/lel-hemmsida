@@ -33,17 +33,17 @@ Elevernas inflytande är viktigt. Elevkåren finns för att sprida glädje, geme
 
 **Nuvarande styrelse 2024/2025:**
 
-* Hilda Ardö, ordförande
+* Pontus Hedén, ordförande
 
-* Pontus Hedén, vice ordförande
+* Kaya Verma, vice ordförande
 
-* John Rahm, sekreterare
+* Alfred Martin-Löf, sekreterare
 
-* PM Barth, ekonomiansvarig
+* Cecilia Glatz, ekonomiansvarig
 
-* Asta Wolff, ledamot
+* Johan Jeansson Rahm, ledamot
 
-* Helena Hansson, ledamot
+* David Westergård, ledamot
 
 * Ebba Solén, ledamot
 
