@@ -31,7 +31,7 @@ Elevernas inflytande är viktigt. Elevkåren finns för att sprida glädje, geme
 - ”Te och kaffe” - de bjuder på gratis te och kaffe i matsalen.
 
 
-**Nuvarande styrelse 2024/2025:**
+**Nuvarande styrelse 2025/2026:**
 
 * Pontus Hedén, ordförande
 
