@@ -26,7 +26,7 @@ slider:
       button1:
         enable : true
         label : "BILJETTER"
-        link : "https://www.ticketmaster.se/artist/lars-erik-larssongymnasiet-biljetter/960155"
+        link : "https://secure.tickster.com/jbxzeuznw7wzzjb"
       button2:
         enable : false
         label : "TEST"
