@@ -73,6 +73,6 @@ gallery:
 
 ### Om årets ljuskonsert
 
-BILJETTSLÄPP: kl 9 den 13/11 2025
+**BILJETTSLÄPP: kl 9 den 13/11 2025**
 
 När året börjar närma sig sitt slut och det är som mörkast på året, tänds ljusen i Allhelgonakyrkan. Helt omringad av både ljus och sång får konsertbesökare njuta av stämningsfull och pampig vokalmusik med vissa instrumentella inslag. Under konsertens första del medverkar skolans alla elever i ett luciatåg, och under andra delen deltar eleverna årskursvis samt i mindre ensembler.   
