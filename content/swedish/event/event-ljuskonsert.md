@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/lucia_bg.jpg"
 # meta description
-description : "Kom till vår ljuskonsert för en stämningsfull upplevelse! Våra två konserter går kl. 18:00 och 20:15. OBS: Biljetterna börjar säljas den 13/11 kl 9."
+description : "Kom till vår ljuskonsert för en stämningsfull upplevelse! Våra två konserter går kl. 18:00 och 20:15. OBS: Biljetterna börjar säljas den 13/11 kl 9 via *Visit Lund*."
 # Event image
 image: "images/events/event_lucia3.jpg"
 # location
@@ -73,6 +73,6 @@ gallery:
 
 ### Om årets ljuskonsert
 
-**BILJETTSLÄPP: kl 9 den 13/11 2025**
+**BILJETTSLÄPP: kl 9 den 13/11 2025. Biljettlänken kommer snart här och länkar till biljettköp på Visit Lund.**
 
 När året börjar närma sig sitt slut och det är som mörkast på året, tänds ljusen i Allhelgonakyrkan. Helt omringad av både ljus och sång får konsertbesökare njuta av stämningsfull och pampig vokalmusik med vissa instrumentella inslag. Under konsertens första del medverkar skolans alla elever i ett luciatåg, och under andra delen deltar eleverna årskursvis samt i mindre ensembler.   
