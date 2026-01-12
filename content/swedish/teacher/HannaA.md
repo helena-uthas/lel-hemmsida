@@ -9,7 +9,7 @@ description : "Rektor"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Biträdande rektor"
+course: "Biträdande rektor/SYV"
 cat: "Rektor"
 # biography
 bio: "Hanna är biträdande rektor och studie- och yrkesvägledare."
