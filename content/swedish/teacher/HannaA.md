@@ -5,12 +5,12 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
 # meta description
-description : "SYV"
+description : "Rektor, SYV"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
 course: "Biträdande rektor"
-cat: "Rektor"
+cat: "Rektor, SYV"
 # biography
 bio: "Hanna är biträdande rektor och studie- och yrkesvägledare."
 # interest
