@@ -17,6 +17,20 @@ slider:
         enable : false
         label : "TEST"
         link : "contact/"
+        # slider item loop
+    - title : "Besök vårt öppna hus!"
+      content : "Den 20 januari öppnar vi dörrarna på LEL!"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button1:
+        enable : true
+        label : "ANSÖK"
+        link : "apply/"
+      button2:
+        enable : false
+        label : "TEST"
+        link : "contact/"
  # slider item loop
     - title : "Nästa konsert: LEL-EL"
       content : "LEL erbjuder fantastiska musikupplevelser!"

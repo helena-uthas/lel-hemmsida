@@ -1,7 +1,7 @@
 ---
 title: "Förklädd Gud"
 # Schedule page publish date
-publishDate: "2025-01-02T00:00:00Z"
+publishDate: "2025-01-0T00:00:00Z"
 # event date
 date: "2025-10-24T17:30:17"
 # post save as draft
