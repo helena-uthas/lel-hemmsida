@@ -18,13 +18,13 @@ slider:
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa konsert: Ljuskonserten"
+    - title : "Nästa konsert: LEL-EL"
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button1:
-        enable : true
+        enable : false
         label : "BILJETTER"
         link : "https://secure.tickster.com/x13bk2wgjwdeerk"
       button2:
