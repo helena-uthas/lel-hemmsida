@@ -25,8 +25,8 @@ slider:
       # available animation : left, right, up, down
       button1:
         enable : true
-        label : "ANSÖK"
-        link : "apply/"
+        label : "SKUGGA"
+        link : "skugga/"
       button2:
         enable : false
         label : "TEST"
