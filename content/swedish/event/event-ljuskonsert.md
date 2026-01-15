@@ -1,9 +1,9 @@
 ---
 title: "Ljuskonsert"
 # Schedule page publish date
-publishDate: "2025-01-09T00:00:00Z"
+publishDate: "2025-01-06T00:00:00Z"
 # event date
-date: "2025-12-13T18:00:17"
+date: "2026-12-13T18:00:17"
 # post save as draft
 draft: false
 # page title background image

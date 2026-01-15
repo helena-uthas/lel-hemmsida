@@ -1,7 +1,7 @@
 ---
 title: "LEL-EL"
 # Schedule page publish date
-publishDate: "2025-01-05T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 # event date
 date: "2026-03-01T18:00:17"
 # post save as draft

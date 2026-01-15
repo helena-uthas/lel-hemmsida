@@ -1,7 +1,7 @@
 ---
 title: "Öppet Hus"
 # Schedule page publish date
-publishDate: "2025-01-04T00:00:00Z"
+publishDate: "2025-01-02T00:00:00Z"
 # event date
 date: "2026-01-20T18:00:17"
 # post save as draft

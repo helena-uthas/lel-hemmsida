@@ -1,7 +1,7 @@
 ---
 title: "LELs MUSIKAL"
 # Schedule page publish date
-publishDate: "2025-01-07T00:00:00Z"
+publishDate: "2025-01-04T00:00:00Z"
 # event date
 date: "2026-05-08T19:00:20"
 # post save as draft
