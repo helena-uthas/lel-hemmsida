@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # about image
 #image: "images/about/student1.jpeg"
 # meta description
-description : "Välkomnen till Lars-Erik Larsson gymnasiet i Lund!"
+description : "Välkomnen till Lars-Erik Larssongymnasiet i Lund!"
 
 
 image: "images/about/elever.jpg"

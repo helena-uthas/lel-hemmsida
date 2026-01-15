@@ -38,6 +38,6 @@ Civilingenjör, Stockholm (elev i  NA12A)
 **"Även om tiden på LEL når sitt slut kommer dess spår alltid att bestå"** Studerande, Lund (Elev i NA19)
 
 
-Röster och bilder från boken *DET FINASTE – en körsamling som följer årets skiftningar Jubileumsbok för Lars-Erik Larsson-gymnasiet 2001–2021*, Wessmans musikförlag 2024
+Röster och bilder från boken *DET FINASTE – en körsamling som följer årets skiftningar Jubileumsbok för Lars-Erik Larssongymnasiet 2001–2021*, Wessmans musikförlag 2024
   <br></br>
 
