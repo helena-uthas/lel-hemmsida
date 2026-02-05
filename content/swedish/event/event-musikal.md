@@ -9,9 +9,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/bg_musikal.jpg"
 # meta description
-description : "Välkomna till LELs musikal! Gå på någon av de tre föreställningarna den 8 eller 9 maj. Mer information följer."
+description : "Välkomna till LELs musikal 2026 -  The Addams Family! Gå på någon av de tre föreställningarna den 8 eller 9 maj. Mer information följer."
 # Event image
-image: "images/events/event_hsm.jpg"
+image: "images/events/The-Addams-Family.jpg"
 # location
 location: "Lunds stadsteater, Lund"
 # entry fee
@@ -115,7 +115,7 @@ gallery:
 
 
 ---
-### Årets föreställningar
+### Årets föreställningar - The Addams Family
 
 **Biljettsläpp: 2025-04-23 09:00**
 
