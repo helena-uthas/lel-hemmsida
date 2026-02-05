@@ -73,4 +73,4 @@ gallery:
 
 ### OM LEL-EL
 
-Denna rockiga konsert är en av LELs härligaste musikupplevlser. Här kan du lyssna på både moderna och klassika rocklåtar i fantastisk "feel-good" anda. <a href=" https://secure.tickster.com/sv/kugxe2h67jyk8ak/products" target="_blank">Köp biljett direkt från Mejeriet här.</a>
+Denna rockiga konsert är en av LELs härligaste musikupplevlser. Här kan du lyssna på både moderna och klassika rocklåtar i fantastisk "feel-good" anda. Biljetter köpes på Mejeriet i dörren!</a>
