@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Kör, tjejswing och manskör"
+course: "kör/tjejswing/manskör"
 cat: "Lärare"
 # biography
 bio: ""

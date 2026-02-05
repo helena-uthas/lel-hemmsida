@@ -9,7 +9,7 @@ description : "Skolsköterska"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Skolsköterska"
+course: "skolsköterska"
 cat: "Elevhälsa"
 # biography
 bio: "Liselott är leg. sjuksköterska och LELs skolsköterska. Hon tar hand om allt från hälsokontroller till individuell kontakt med elever."

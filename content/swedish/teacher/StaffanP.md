@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Jazzensemble samt gehörs- och musiklära"
+course: "jazz/gemu"
 cat: "Lärare"
 # biography
 bio: ""

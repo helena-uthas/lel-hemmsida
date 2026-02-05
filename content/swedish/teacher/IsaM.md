@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Samhällskunskap"
+course: "samhällskunskap"
 cat: "Lärare"
 # biography
 bio: ""

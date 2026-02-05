@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Matematik och fysik"
+course: "matematik/fysik"
 cat: "Lärare"
 # biography
 bio: ""

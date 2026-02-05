@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Storband"
+course: "storband"
 cat: "Lärare"
 # biography
 bio: ""

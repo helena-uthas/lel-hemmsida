@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Religionskunskap och historia"
+course: "religion/historia"
 category: "Lärare"
 # biography
 bio: "Ansvarar för schemaläggning och IT frågor."

@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Samhällskunskap och geografi"
+course: "samhällskunskap/geografi"
 cat: "Lärare"
 # biography
 bio: "Malin är förstelärare för samhällsprogrammet. "

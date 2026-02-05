@@ -9,7 +9,7 @@ description : "Skolkurator"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Skolkurator"
+course: "skolkurator"
 cat: "Elevhälsa"
 # biography
 bio: "Anne-Charlotte tar emot alla elever i behov av samtal. "

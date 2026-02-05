@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Matematik och kemi"
+course: "matematik/kemi"
 cat: "Lärare"
 # biography
 bio: "Annika är förelärare för naturprogrammet."

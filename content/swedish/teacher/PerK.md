@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Rockensemble, Gehörs- och musiklära, Musikalorkester"
+course: "rock/gemu/musikal"
 cat: "Lärare"
 # biography
 bio: ""

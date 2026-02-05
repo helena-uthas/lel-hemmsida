@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Engelska, svenska och psykologi"
+course: "engelska/svenska/psykologi"
 cat: "Lärare"
 # biography
 bio: ""

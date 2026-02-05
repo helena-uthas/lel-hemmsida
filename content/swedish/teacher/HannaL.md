@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Träblåsensemble"
+course: "träblåsensemble"
 cat: "Lärare"
 # biography
 bio: ""

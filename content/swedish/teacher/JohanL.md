@@ -9,7 +9,7 @@ description : "Administration och ekonomi"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Idrott och hälsa"
+course: "idrott"
 # biography
 #bio: ""
 # interest

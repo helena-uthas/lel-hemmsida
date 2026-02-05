@@ -9,7 +9,7 @@ description : "Specialpedagog"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Specialpedagog"
+course: "specialpedagog"
 cat: "Elevhälsa"
 # biography
 bio: "Tanja är specialpedagog och erbjuder elever hjälp med planering, utredningar och samtal kring studierna."

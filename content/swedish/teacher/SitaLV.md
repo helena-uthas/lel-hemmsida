@@ -9,7 +9,7 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "Engelska, Filosofi, Musikal"
+course: "engelska/filosofi/musikal"
 cat: "Lärare"
 # biography
 bio: ""
