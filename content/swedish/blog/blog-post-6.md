@@ -37,7 +37,7 @@ Som Sveriges vinnare bjuds Jacob in till en högtidlig prisceremoni i Bryssel, d
 
 Jacobs framgång visar vad engagemang, noggrannhet och språklig nyfikenhet kan leda till. Han är en inspirerande förebild för andra elever som vill utveckla sina språkkunskaper och utmana sig själva på hög nivå.
 
-Vi på Lars-Erik Larsson gymnasiet är oerhört stolta över Jacobs fantastiska insats och hans Sverige-vinst.
+Vi på Lars-Erik Larssongymnasiet är oerhört stolta över Jacobs fantastiska insats och hans Sverige-vinst.
 
 **Stort grattis, Jacob!** 
  
