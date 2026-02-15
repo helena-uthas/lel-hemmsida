@@ -23,17 +23,17 @@ Vi är otroligt stolta över att kunna dela en fantastisk framgång: **Jacob Jö
 
 Tävlingen arrangeras årligen av översättningsavdelningen vid Europeiska kommissionen och samlar språkbegåvade gymnasieelever från hela EU. Syftet är att lyfta fram betydelsen av goda språkkunskaper och visa hur avgörande skickliga översättningar är för kommunikation, samarbete och förståelse mellan Europas länder.
 
-### En prestation på högsta europeiska nivå
+## En prestation på högsta europeiska nivå
 
 De tävlande översätter en text på en sida från ett av EU:s officiella språk till ett annat. Bidragen granskas noggrant av professionella översättare vid Europeiska kommissionen, experter som dagligen arbetar med att säkerställa tydlig och korrekt kommunikation inom EU:s institutioner.
 
 Att Jacob utsågs till vinnare i Sverige innebär att hans översättning bedömdes hålla allra högsta kvalitet, språkligt, stilistiskt och innehållsmässigt. Det är en prestation som vittnar om både djupa språkkunskaper, analytisk förmåga och en känsla för nyanser och uttryck.
 
-### Prisceremoni i Bryssel
+## Prisceremoni i Bryssel
 
 Som Sveriges vinnare bjuds Jacob in till en högtidlig prisceremoni i Bryssel, där vinnare från varje EU-land samlas. Det är en unik möjlighet att möta andra språkbegåvade ungdomar från hela Europa och få inblick i arbetet bakom EU:s flerspråkiga kommunikation.
 
-### En förebild för språkstudier
+## En förebild för språkstudier
 
 Jacobs framgång visar vad engagemang, noggrannhet och språklig nyfikenhet kan leda till. Han är en inspirerande förebild för andra elever som vill utveckla sina språkkunskaper och utmana sig själva på hög nivå.
 
