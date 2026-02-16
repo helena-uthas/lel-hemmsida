@@ -1,5 +1,5 @@
 ---
-title: "Jacob Jörgen - Sveriges vinnare i europeisk översättningstävling!"
+title: "Jacob Jörgren - Sveriges vinnare i europeisk översättningstävling!"
 date: 2026-02-12T15:27:17+06:00
 draft: false
 # page title background image
@@ -17,9 +17,9 @@ tags: ["tävling", "skola"]
 type: "post"
 ---
 
-### Jacob Jörgen - Sveriges vinnare i europeisk översättningstävling!
+### Jacob Jörgren - Sveriges vinnare i europeisk översättningstävling!
 
-Vi är otroligt stolta över att kunna dela en fantastisk framgång: **Jacob Jörgen har utsetts till Sveriges vinnare i den prestigefyllda europeiska tävlingen Juvenes Translatores (Unga översättare)!**
+Vi är otroligt stolta över att kunna dela en fantastisk framgång: **Jacob Jörgren har utsetts till Sveriges vinnare i den prestigefyllda europeiska tävlingen Juvenes Translatores (Unga översättare)!**
 
 Tävlingen arrangeras årligen av översättningsavdelningen vid Europeiska kommissionen och samlar språkbegåvade gymnasieelever från hela EU. Syftet är att lyfta fram betydelsen av goda språkkunskaper och visa hur avgörande skickliga översättningar är för kommunikation, samarbete och förståelse mellan Europas länder.
 
