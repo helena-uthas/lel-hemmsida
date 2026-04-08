@@ -127,6 +127,11 @@ gallery:
 *Varje år anordnar LEL en musikal. Detta är en del av kursen Estetisk kommunikation, som eleverna har möjlighet att välja i årskurs 3. Under året får de som valt kursen jobba intensivt med dans, sång/musik och teater för att få ihop bästa möjliga produktion som sedan spelas på Lunds stadsteater i slutet av läsåret. Man arbetar även med alla andra delar som behövs för att en produktion ska gå ihop, såsom kostym, scenografi, PR, rekvisita, smink m.m. Genom kursen får eleverna kunskap i vad som krävs för att sätta upp en musikalföreställning och får göra detta tillsammans med pedagoger och yrkesverksamma som har mycket erfarenhet inom sina olika fält.* 
 <br/><br/>
 
+### Musikalen 2026 - The Addams Family 
+
+Följ med oss på ett tokigt, sprudlande och upp-och-nedvänt besök hemma hos familjen Addams! Den ikoniska familjen, skapad av Charles Addams, bjuder på en mörkt humoristisk historia fylld av kärlek, kaos och oväntade möten. När dottern Wednesday Addams blir förälskad i en helt vanlig kille ställs familjens märkliga normer på sin spets. Kan den excentriska familjen hålla masken under en minst sagt ovanlig middag? Med fartfyllda sånger, kvick humor och en stor dos galenskap är detta en musikal som lockar till både skratt och eftertanke. LELs begåvade treor, NASA23, bjuder på en härligt svängig musikalupplevelse för hela familjen!
+
+
 ### Musikalen 2025 - High School Musical
 
 High School Musical är en berättelse om gymnasieelever som vågar följa sina drömmar och utmana normer. I denna berättelse får ni möta Troy, en populär basketspelare, och Gabriella, en ambitiös tjej med en passion för sång. När de oväntat möts under auditionerna för skolans musikal tvingas de konfrontera förväntningarna från omgivningen. Genom musik och dans lär de sig att äkta vänskap och mod kan övervinna hinder och att man alltid bör vara sann mot sig själv. 

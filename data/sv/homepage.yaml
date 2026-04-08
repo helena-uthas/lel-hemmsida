@@ -32,7 +32,7 @@ slider:
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa event: Musikalen"
+    - title : "Nästa event: Musikalen The Addams Family" 
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
