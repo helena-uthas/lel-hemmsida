@@ -40,7 +40,8 @@ slider:
       button1:
         enable : true
         label : "BILJETTER"
-        link : "https://secure.tickster.com/7yxjxrdju8r80d6"
+        #link : "https://secure.tickster.com/7yxjxrdju8r80d6"
+        link: '<a href="https://secure.tickster.com/7yxjxrdju8r80d6" target="_blank" rel="noopener noreferrer">Buy tickets</a>'
       button2:
         enable : false
         label : "TEST"
