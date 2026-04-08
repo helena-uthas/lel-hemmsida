@@ -32,7 +32,7 @@ slider:
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa konsert: Vårkonserten"
+    - title : "Nästa event: Musikalen"
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
@@ -40,7 +40,7 @@ slider:
       button1:
         enable : true
         label : "BILJETTER"
-        link : "https://secure.tickster.com/sv/y53bk22khh4pw7r/selectevent"
+        link : "https://secure.tickster.com/7yxjxrdju8r80d6"
       button2:
         enable : false
         label : "TEST"

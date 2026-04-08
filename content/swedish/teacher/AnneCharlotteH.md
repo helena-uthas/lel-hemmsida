@@ -25,9 +25,9 @@ contact:
     link : "mailto:anne-charlotte.holmberg@lel.nu "
 
   # contact item loop
-  - name : "072-189 49 00"
+  - name : "046-378 13 00"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel: 072-189 49 00"
+    link : "046-378 13 00"
 
   # contact item loop
   #- name : "Clark Malik"
