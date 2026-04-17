@@ -48,7 +48,7 @@ description : "Viktiga datum för läsåret 2026/2027"
 * Utvecklingsdag:13/4
 * Utvecklingssamtal NA26B 21/4
 * Vårkonsert: 16/4
-* Våren sjungs in: 31/4 
+* Våren sjungs in: 30/4 
 * Utvecklingsdag: 12/5
 * LELs musikal: 21-22/5
 * Friluftsdag: 3/6

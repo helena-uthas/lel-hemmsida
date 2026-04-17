@@ -9,5 +9,5 @@ image: "images/skolinfo/sam_riksdagen.jpg"
 description : "Samhälle"
 ---
 
-* Datum för läsåret 2025/2026 kommer snart!
+* Datum för läsåret 2026/2027 kommer snart!
 

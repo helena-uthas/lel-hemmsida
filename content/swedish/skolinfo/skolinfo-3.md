@@ -9,4 +9,4 @@ image: "images/skolinfo/stock_labb.jpg"
 description : "natur"
 ---
 
-* Datum för läsåret 2025/2026 kommer snart!
+* Datum för läsåret 2026/2027 kommer snart!

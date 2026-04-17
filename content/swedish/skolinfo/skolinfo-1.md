@@ -8,11 +8,10 @@ image: "images/skolinfo/konserter.jpg"
 # meta description
 description : "konserter"
 ---
-
-* Konsert med spetskören (datum kommer)
-* Förklädd gud (Domkyrkan) 24/10
+Läsåret 2026/2027
+* Förklädd gud (Domkyrkan) 23/10
 * Ljuskonsert (Allhelgona kyrkan) 13/12
-* LEL-EL: 1/3
-* Vårkonsert: 27/3
+* LEL-EL: 7/3
+* Vårkonsert: 16/3
 * Våren sjungs in: 30/4
-* Musikal: 8-9/5
+* Musikal: 21-22/5
