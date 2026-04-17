@@ -19,7 +19,7 @@ description : "Viktiga datum för läsåret 2026/2027"
 
 <strong>Höstterminen 2026</strong>
 
-**Onsdagen den 12 augusti  - tisdagen den 22 december**
+*Onsdagen den 12 augusti  - tisdagen den 22 december*
 
 * Terminsstart: 12/8 
 * Insparken: 1/9
@@ -34,7 +34,7 @@ description : "Viktiga datum för läsåret 2026/2027"
 
 <strong>Vårterminen 2027</strong>
 
-**Måndagen den 11 januari – måndagen den 7 juni**
+*Måndagen den 11 januari – måndagen den 7 juni*
 
 * Vårterminens lektioner startar: 11/1 
 * Öppet hus: 19/1 
