@@ -46,7 +46,7 @@ Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriä
 
 |Gymnasiegemensamma ämnen|p| Inriktning Samhälle musik|p|Individuella val|p|
 |:-|:-|:-|:-|:-|:-|
-|**Engelska** (nivå 1, 2)         |100/100    |**Ensemble** (nivå 1, 2)                                   |100|**Engelska** (nivå 3)|100|
+|**Engelska** (nivå 1, 2)         |100/100    |**Ensemble** (nivå 1, 2)                                   |100/100|**Engelska** (nivå 3)|100|
 |**Gymnasiearbete**               |100        |**Filosofi** (nivå 1)                                      |50 |**Estetisk kommunikation** *Musikal* (nivå 1)|100|
 |**Historia** (nivå 1b)           |100        |**Geografi** (nivå 1)                                      |100|**Idrott och hälsa** (nivå 2) **eller** **Musikteori** (nivå 2)|100|
 |**Idrott och hälsa** (nivå 1)    |100        |**Historia** (nivå 2a)                                     |100|**Körsång** *Spetskör* (nivå 2) |100|
