@@ -49,14 +49,14 @@ Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriä
 |**Engelska** (nivå 1, 2)         |100/100    |**Ensemble** (nivå 1, 2)                                   |100|**Engelska** (nivå 3)|100|
 |**Gymnasiearbete**               |100        |**Filosofi** (nivå 1)                                      |50 |**Estetisk kommunikation** *Musikal* (nivå 1)|100|
 |**Historia** (nivå 1b)           |100        |**Geografi** (nivå 1)                                      |100|**Idrott och hälsa** (nivå 2) **eller** **Musikteori** (nivå 2)|100|
-|**Idrott och hälsa** (nivå 1)    |100        |**Historia** (nivå 2a)                                     |100|**Körsång** *Spetskör* (nivå 2) | 100|
+|**Idrott och hälsa** (nivå 1)    |100        |**Historia** (nivå 2a)                                     |100|**Körsång** *Spetskör* (nivå 2) |100|
 |**Matematik** (nivå 1b, 2b)      |100/100    |**Körsång** (nivå 1)                                       |100|**Matematik** (fortsättning nivå 1b) |100|
 |**Religionskunskap** (nivå 1)    |50         |**Moderna språk** (nybörjare **eller** fortsättning nivå 1)|200|**Moderna språk** (grund nivå 1 **eller** fortsättning nivå 2)|100|
-|**Samhällskunskap** (nivå 1)     |100        |**Musikteori** (nivå 1)                                    |100|**Naturkunskap** (nivå 2)|100|
-|**Svenska** (nivå 1, 2, 3)       |100/100/100|**Psykologi** (nivå 1)                                     |50 |**Samhällskunskap 3** (nivå 3)|100|
+|**Samhällskunskap** (nivå 1)     |100        |**Musikteori** (nivå 1)                                    |100| |
+|**Svenska** (nivå 1, 2, 3)       |100/100/100|**Naturkunskap** (nivå 1b)                                 |100|**Naturkunskap** (nivå 2)|100|
+|                                 |           |**Psykologi** (nivå 1)                                     |50 |**Samhällskunskap 3** (nivå 3)|100|
 |                                 |           |**Religionskunskap** (nivå 2)                              |50 | |
 |                                 |           |**Samhällskunskap** (nivå 2)                               |100| |
-      
 
 <br/>
 
