@@ -1,5 +1,5 @@
 ---
-title: "Jan vågar utmana eleverna som vill längre i matematiken"
+title: "Jan Grzegorz vågar utmana eleverna som vill längre i matematiken"
 date: 2026-05-01T15:27:17+06:00
 draft: false
 # page title background image
@@ -17,7 +17,7 @@ tags: ["tävling", "matematik"]
 type: "post"
 ---
 
-### Jan vågar utmana eleverna som vill längre i matematiken!
+### Jan Grzegorz vågar utmana eleverna som vill längre i matematiken!
 
 Vad händer med de elever som redan älskar matematik och vill tänka ännu längre? I en artikel från Skolornas matematiktävling lyfts en viktig fråga, skolan behöver inte bara stötta elever som tycker att matematik är svårt, utan också utmana dem som vill satsa högre.
 
