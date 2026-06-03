@@ -8,7 +8,7 @@ image: "images/skolinfo/konserter.jpg"
 # meta description
 description : "konserter"
 ---
-Läsåret 2026/2027
+*Läsåret 2026/2027*
 * Förklädd gud (Domkyrkan) 23/10
 * Ljuskonsert (Allhelgona kyrkan) 13/12
 * LEL-EL: 7/3

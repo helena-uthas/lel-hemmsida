@@ -26,4 +26,4 @@ Jan Grzegorz, lärare på Lars-Erik Larsson gymnasiet i Lund, visar hur matemati
 Artikeln är en inspirerande påminnelse om varför utmaningar behövs även för de elever som redan ligger långt fram. För ibland är det just de svåraste problemen som får matteglädjen att växa. 
 
 
- [läs mer här](https://www.mattetavling.se/nyheter/det-r-viktigt-att-ven-utmana-de-elever-som-satsar-hgre).  
+ [Följ länken till artikeln genom att klicka här!](https://www.mattetavling.se/nyheter/det-r-viktigt-att-ven-utmana-de-elever-som-satsar-hgre).  
