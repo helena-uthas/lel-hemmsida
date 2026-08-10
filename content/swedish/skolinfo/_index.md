@@ -10,12 +10,6 @@ description : "Viktiga datum för läsåret 2026/2027"
 ---
 
 ## LÄSÅRSTIDER 
-<strong>Vårterminen 2026</strong>
-
-* Friluftsdag: 4/6
-* Studenten: 5/6
-* Sommaravslutning: 9/6
-
 
 <strong>Höstterminen 2026</strong>
 
@@ -54,11 +48,4 @@ description : "Viktiga datum för läsåret 2026/2027"
 * Friluftsdag: 3/6
 * Studenten: 4/6 
 * Sommaravslutning: 7/6 
-
-<strong>Nationella prov</strong> 
-
-* Engelska 6 del C (NASA24) 21/4 2026
-* Engelska 6 del B (NASA24) 23/4 2026
-* Matematik 3c (NA24) 18/5 2026
-* Matematik 2b (SA24) 19/5 2026
 
