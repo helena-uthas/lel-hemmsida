@@ -1,6 +1,6 @@
 ---
-title: Hösterminens start 2025
-date: 2025-08-13T15:27:17+06:00
+title: Hösterminens start 2026
+date: 2026-08-12T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -16,7 +16,7 @@ type: "notice"
 <br><br>
 ### Terminstart
 
-*Onsdagen den 13 augusti 2025 börjar ett nytt läsår på LEL. Uppropet för våra nya elever i årskurs 1 börjar kl. 10 i aulan på Lindebergska skolan.  Elever i årskurs 2 och 3 träffas i aulan kl. 12.* 
+*Onsdagen den 12 augusti 2026 börjar ett nytt läsår på LEL. Uppropet för våra nya elever i årskurs 1 börjar kl. 10 i aulan på Lindebergska skolan.  Elever i årskurs 2 och 3 träffas i aulan kl. 12.* 
 
 **Program: årskurs 1**<br>
 - **10.00** Upprop i aulan.
