@@ -12,7 +12,7 @@ image: "images/personal/vit.jpg"
 course: "fysik"
 cat: "Lärare"
 # biography
-bio: ""
+bio: "Helena Uthas är doktor i fysik och astronomi och arbetar som lärare på LEL. Tidigare har hon forskat och undervisat vid Columbia University i New York och arbetat som fysiklärare på Viktor Rydbergs gymnasium i Stockholm. Vid sidan av undervisningen arbetar hon för Nationellt resurscentrum för fysik (NRCF) och vid institutionen för astrofysik i Lund. Hennes stora passion är att väcka nyfikenhet och dela med sig av allt spännande som finns att upptäcka i världen och universum."
 # interest
 interest: ["Måndag-onsdag/fredag","Kontor i sal B21/203"]
 # contact info

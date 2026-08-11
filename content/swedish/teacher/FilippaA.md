@@ -1,6 +1,6 @@
 ---
 weight: 80
-title: "Emma Övång"
+title: "Filippa Arenius"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/LEL_top.jpg"
@@ -9,18 +9,18 @@ description : "Lärare"
 # teacher portrait
 image: "images/personal/vit.jpg"
 # course
-course: "musikal/kör/gospel"
+course: "gospel"
 cat: "Lärare"
 # biography
 bio: ""
 # interest
-interest: ["Tjänstledig","Kontor i sal 209"]
+interest: ["Måndag - fredag","Kontor i sal 209"]
 # contact info
 contact:
   # contact item loop
-  - name : "emma.ovang@lel.nu "
+  - name : "filippa.arenius@lel.nu "
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:emma.ovang@lel.nu "
+    link : "mailto:filippa.arenius@lel.nu"
 
   # contact item loop
   - name : "046-378 13 00"
