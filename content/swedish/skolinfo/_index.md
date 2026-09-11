@@ -23,8 +23,8 @@ description : "Viktiga datum för läsåret 2026/2027"
 * Utvecklingsdag: 2/11
 * Öppet hus: 10/11
 * Ljuskonsert: 13/12
-* Julavslutning: 18/12
-* Jullovet: 19/12 - 10/1
+* Julavslutning: 22/12
+* Jullovet: 23/12 - 11/1
 
 <strong>Vårterminen 2027</strong>
 
