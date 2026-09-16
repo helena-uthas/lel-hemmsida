@@ -9,9 +9,8 @@ image: "images/skolinfo/elever.jpg"
 description : "Viktiga datum för läsåret 2026/2027"
 ---
 
-### Höstterminen 2026
+## Höstterminen 2026
 
-#### Terminsdatum
 
 - **Onsdag 12 augusti:** Skolstart
 - **Tisdag 22 december:** Julavslutning
@@ -43,9 +42,8 @@ description : "Viktiga datum för läsåret 2026/2027"
 - **Måndag 2 november:** Prövning
 - **Tisdag 10 november:** Öppet hus
 
-### Vårterminen 2027
+## Vårterminen 2027
 
-#### Terminsdatum
 
 - **Måndag 11 januari:** Skolstart
 - **Måndag 7 juni:** Sommaravslutning
