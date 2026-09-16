@@ -25,25 +25,15 @@ title3: "Elever bildar själva utskotten"
 **Nedan finns en lista över LELs nuvarande utskott.**
 
 
-- LELs Miljöutskott
-- LELs Dansutskott 
-- LELs Feministutskott
-- LELs HBTQ-utskott
-- LELs Teaterutskott
-- LELs Filmutskott
-- LELs Pokerutskott
-- Hantverksutskottet
-- MåBra-utskottet
-- Litterära utskottet
+- Miljöutskottet			
 - Basketutskottet
-- Dekorationsutskottet
+- Kristna skolgruppen
+- Dansutskottet
 - Friluftsutskottet
-- Prankutskottet
-- Glassutskottet
-- Kristen skolgrupp
-- Garnutskottet
-
-
+- Bastuutskottet
+- Pokerutskottet
+- Läxhjälputskottet
+- Måsarts naturskådningsutskott
 
 
 
