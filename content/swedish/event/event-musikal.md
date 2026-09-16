@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/bg_musikal.jpg"
 # meta description
 description : "Årets musikal: Urinetown"
 # Event image
-image: "images/events/The-Addams-Family.jpg"
+image: "images/events/urintown_temp.jpg"
 # location
 location: "Lunds stadsteater, Lund"
 # entry fee
