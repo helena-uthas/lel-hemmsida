@@ -9,9 +9,13 @@ image: "images/skolinfo/konserter.jpg"
 description : "konserter"
 ---
 *Läsåret 2026/2027*
-* Förklädd gud (Domkyrkan) 23/10
-* Ljuskonsert (Allhelgona kyrkan) 13/12
-* LEL-EL: 7/3
-* Vårkonsert: 16/3
-* Våren sjungs in: 30/4
-* Musikal: 21-22/5
+
+- **Måndag 14 september:** Spetskören i Lunds domkyrka
+- **Fredag 23 oktober:** Förklädd gud
+- **Söndag 13 december:** Ljuskonsert
+- **Söndag 7 mars:** LEL–EL
+- **Fredag 16 april:** Vårkonsert
+- **Fredag 30 april:** Vårsång på trappan
+- **Fredag-lördag 21-22 maj:** Musikal på Stadsteatern
+- **Datum kommer:** Körresa för spetskören!
+

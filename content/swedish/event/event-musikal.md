@@ -9,7 +9,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/bg_musikal.jpg"
 # meta description
-description : "Välkomna till LELs musikal 2026 -  The Addams Family! Gå på någon av de tre föreställningarna den 8 eller 9 maj. Mer information följer."
+description : "Årets musikal: Urinetown"
 # Event image
 image: "images/events/The-Addams-Family.jpg"
 # location
@@ -115,17 +115,14 @@ gallery:
 
 
 ---
-### Årets föreställningar - The Addams Family
-
-**Biljettsläpp: 2025-04-23 09:00**
-
-* Fredagen den 8 maj kl. 19.00
-* Lördagen den 9 maj kl. 14.30
-* Lördagen den 9 maj kl. 19.00
-<br/><br/>
 
 *Varje år anordnar LEL en musikal. Detta är en del av kursen Estetisk kommunikation, som eleverna har möjlighet att välja i årskurs 3. Under året får de som valt kursen jobba intensivt med dans, sång/musik och teater för att få ihop bästa möjliga produktion som sedan spelas på Lunds stadsteater i slutet av läsåret. Man arbetar även med alla andra delar som behövs för att en produktion ska gå ihop, såsom kostym, scenografi, PR, rekvisita, smink m.m. Genom kursen får eleverna kunskap i vad som krävs för att sätta upp en musikalföreställning och får göra detta tillsammans med pedagoger och yrkesverksamma som har mycket erfarenhet inom sina olika fält.* 
 <br/><br/>
+
+### Musikalen 2027 - Urinetown
+
+Välkommen till en dystopisk framtid där planeten har torka och det absolut värsta brottet du kan begå är att kissa gratis! Följ med i denna sjukt svängiga och hysteriskt roliga succémusikal, där modiga rebeller tar upp kampen mot ett girigt storföretag för rätten att få gå på toa utan att bli ruinerade - eller dömda till det fruktade straffet ”Urinetown”.
+
 
 ### Musikalen 2026 - The Addams Family 
 

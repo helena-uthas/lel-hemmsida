@@ -11,8 +11,6 @@ description : "Viktiga datum för läsåret 2026/2027"
 
 ## LÄSÅRSTIDER 
 
-# Viktiga datum läsåret 2026/2027
-
 ## Höstterminen 2026
 
 ### Terminsdatum
@@ -89,7 +87,6 @@ description : "Viktiga datum för läsåret 2026/2027"
 - **Tisdag 13 april:** Prövning
 - **Onsdag 21 april:** Utvecklingssamtal, NA26B
 - **Måndag 26 april:** Mingelkväll för blivande elever
-- **Tisdag 27 april:** Informationskväll
 - **Onsdag 12 maj:** Prövning
 - **Måndag 17–söndag 23 maj:** Musikalvecka
 - **Onsdag 26 maj:** Preliminärt datum för studentbal

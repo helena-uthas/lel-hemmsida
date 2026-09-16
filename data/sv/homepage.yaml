@@ -32,13 +32,13 @@ slider:
         label : "TEST"
         link : "contact/"
  # slider item loop
-    - title : "Nästa event: Musikalen The Addams Family" 
+    - title : "Nästa event: Förklädd gud" 
       content : "LEL erbjuder fantastiska musikupplevelser!"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button1:
-        enable : true
+        enable : false
         label : "BILJETTER"
         link : "https://secure.tickster.com/7yxjxrdju8r80d6"
       button2:
