@@ -11,41 +11,87 @@ description : "Viktiga datum för läsåret 2026/2027"
 
 ## LÄSÅRSTIDER 
 
-<strong>Höstterminen 2026</strong>
+# Viktiga datum läsåret 2026/2027
 
-*Onsdagen den 12 augusti  - tisdagen den 22 december*
+## Höstterminen 2026
 
-* Terminsstart: 12/8 
-* Insparken: 1/9
-* Föräldramöte åk1: 9/9  
-* Förklädd gud: 23/10 
-* Höstlovet: 26/10 – 30/10 (vecka 44)
-* Utvecklingsdag: 2/11
-* Öppet hus: 10/11
-* Ljuskonsert: 13/12
-* Julavslutning: 22/12
-* Jullovet: 23/12 - 11/1
+### Terminsdatum
 
-<strong>Vårterminen 2027</strong>
+- **Onsdag 12 augusti:** Skolstart
+- **Tisdag 22 december:** Julavslutning
 
-*Måndagen den 11 januari – måndagen den 7 juni*
+### Lov, U-dagar och D-dagar
 
-* Vårterminens lektioner startar: 11/1 
-* Öppet hus: 19/1 
-* Utvecklingsdag: 17/2 
-* Sportlovet: 22/2-28/2 (vecka 8)
-* Utvecklingssamtal SA26 4/3
-* LEL-EL: 7/3
-* Utvecklingsdag:8/3
-* Påsklovet: 22/3-28/3 (vecka 12)
-* Utvecklingssamtal NA26A 12/4
-* Utvecklingsdag:13/4
-* Utvecklingssamtal NA26B 21/4
-* Vårkonsert: 16/4
-* Våren sjungs in: 30/4 
-* Utvecklingsdag: 12/5
-* LELs musikal: 21-22/5
-* Friluftsdag: 3/6
-* Studenten: 4/6 
-* Sommaravslutning: 7/6 
+- **Måndag 26–fredag 30 oktober:** Höstlov
+- **Måndag 2 november:** U-DAG – utvecklingssamtal
+- **Måndag 14 december:** D-DAG – eleverna är komplediga
+- **Onsdag 23 december–fredag 8 januari 2027:** Jullov
 
+### Konserter
+
+- **Måndag 14 september:** Spetskören i Lunds domkyrka
+- **Fredag 23 oktober:** Förklädd gud
+- **Söndag 13 december:** Ljuskonsert
+
+### Nationella prov
+
+- **Onsdag 16 december:** Nationellt prov i matematik 4, NA24
+
+### Övriga viktiga datum
+
+- **Torsdag 20 augusti:** NASA25 – paddling
+- **Tisdag 1 september:** Inspark
+- **Onsdag 9 september:** Föräldramöte NASA26
+- **Onsdag 16–torsdag 17 september:** Stockholmsresa, SA24
+- **Måndag 5 oktober:** Fotografering
+- **Måndag 2 november:** Prövning
+- **Tisdag 10 november:** Öppet hus
+
+## Vårterminen 2027
+
+### Terminsdatum
+
+- **Måndag 11 januari:** Skolstart
+- **Måndag 7 juni:** Sommaravslutning
+
+### Lov, U-dagar och D-dagar
+
+- **Onsdag 17 februari:** U-DAG
+- **Måndag 22–fredag 26 februari:** Sportlov
+- **Måndag 8 mars:** U-DAG – utvecklingssamtal
+- **Måndag 22–torsdag 25 mars:** Påsklov
+- **Tisdag 13 april:** U-DAG
+- **Fredag 7 maj:** Lovdag
+- **Onsdag 12 maj:** U-DAG
+
+### Konserter
+
+- **Söndag 7 mars:** LEL–EL
+- **Fredag 16 april:** Vårkonsert
+- **Fredag 30 april:** Vårsång på trappan
+- **Fredag 21 maj:** Musikal på Stadsteatern
+- **Lördag 22 maj:** Musikal på Stadsteatern
+
+### Nationella prov
+
+- **Torsdag 18 mars:** Nationellt prov i svenska 3, NASA24
+- **Onsdag 7 april:** Nationellt prov i engelska 2, del C, NASA25
+- **Fredag 9 april:** Nationellt prov i engelska 2, del B, NASA25
+- **Tisdag 18 maj:** Nationellt prov i matematik, MaF 1c, NA25
+- **Onsdag 19 maj:** Nationellt prov i matematik 2b, SA25
+
+### Övriga viktiga datum
+
+- **Tisdag 19 januari:** Öppet hus
+- **Onsdag 17 februari:** Prövning
+- **Torsdag 4 mars:** Utvecklingssamtal, SA26
+- **Måndag 12 april:** Utvecklingssamtal, NA26A
+- **Tisdag 13 april:** Prövning
+- **Onsdag 21 april:** Utvecklingssamtal, NA26B
+- **Måndag 26 april:** Mingelkväll för blivande elever
+- **Tisdag 27 april:** Informationskväll
+- **Onsdag 12 maj:** Prövning
+- **Måndag 17–söndag 23 maj:** Musikalvecka
+- **Onsdag 26 maj:** Preliminärt datum för studentbal
+- **Torsdag 3 juni:** Friluftsdag
+- **Fredag 4 juni:** Utsläpp, årskurs 3
