@@ -38,9 +38,9 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button1:
-        enable : false
+        enable : true
         label : "BILJETTER"
-        link : "https://secure.tickster.com/7yxjxrdju8r80d6"
+        link : "https://secure.tickster.com/yghwm3tr4xp2309"
       button2:
         enable : false
         label : "TEST"

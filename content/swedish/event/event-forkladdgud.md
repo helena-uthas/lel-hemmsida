@@ -15,7 +15,7 @@ image: "images/events/event_gud2.jpg"
 # location
 location: "Domkyrkan, Lund"
 # entry fee
-fee: "Vuxna 195 kr/barn 85 kr"
+fee: "Vuxna 215 kr/barn 95 kr"
 # apply url
 apply_url : "#"
 # event speaker
