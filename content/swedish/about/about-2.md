@@ -10,4 +10,4 @@ description : "LEL på Bredgatan 5"
 ---
 
 * Här finns vår fina körsal, klass- och ensemblesalar, bibliotek och elevhälsa.
-* Gathuset på Bredgatan 5 uppfördes 1798 och är mest känt för den anrika krogen Åke Hans, där bland andra August Strindberg var stamgäst.
+* Gathuset uppfördes 1798 och är känt för den anrika krogen Åke Hans.
