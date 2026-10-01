@@ -33,7 +33,7 @@ Civilingenjör, Stockholm (elev i  NA12A)
 **"Jag visste att jag hade det fantastiskt på LEL Vad jag inte visste var hur fantastiskt mitt liv efter gymnasiet skulle bli, tack vare av LEL"**
  Studerande, Lund (elev i NA14)
 
-**"LEL är en livsstil! sa jag som upprymd, nostalgisk, romantiserande nybakad student Och jag står fast vid det. Även om tiden på LEL når sitt slut kommer dess spår alltid att bestå"** Studerande, Lund (elev i NA18)
+**"LEL är en livsstil! sa jag som upprymd, nostalgisk, romantiserande nybakad student Och jag står fast vid det."** Studerande, Lund (elev i NA18)
 
 **"Även om tiden på LEL når sitt slut kommer dess spår alltid att bestå"** Studerande, Lund (Elev i NA19)
 

@@ -25,7 +25,7 @@ contact:
   # contact item loop
   - name : ""
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:"
+    link : "tel: 046-378 13 01"
 
   # contact item loop
   #- name : "Clark Malik"

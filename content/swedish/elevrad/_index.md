@@ -25,26 +25,25 @@ Elevernas inflytande är viktigt. Elevkåren finns för att sprida glädje, geme
 
 - ”Lanet”- där sover hela skolan över i Bredgatans lokaler och spelar spel, tittar på skräckfilm och äter pizza hela natten.
 - ”Killerveckan”- en tävling under skoltid för de som vill där det finns skydd och vapen och alla får offer som man ska ”döda” under veckans gång. 
-- ”Alla hjärtans dag”- alla får skicka in hälsningar till folk på skolan som vi i elevkårsstyrelsen delar ut hjärtklubbor. 
 - ”Snacksdagar” - så som popcorndag och trettondag kanelbulle.
 - ”Hoodies” - elevkåren säljer hoodies i olika färger med skolans logga på som alla kan köpa. 
 - ”Te och kaffe” - de bjuder på gratis te och kaffe i matsalen.
 
 
-**Nuvarande styrelse 2025/2026:**
+**Nuvarande styrelse 2026/2027:**
 
-* Pontus Hedén, ordförande
+* Ordförande: Kaya Verma
 
-* Kaya Verma, vice ordförande
+* Vice ordförande: Oskar Johansson
 
-* Alfred Martin-Löf, sekreterare
+* Ekonomiansvarig: Alfred Martin-Löf
 
-* Cecilia Glatz, ekonomiansvarig
+* Sekreterare: Simon Isgar
 
-* Johan Jeansson Rahm, ledamot
+* Ledamot: David Westergård
 
-* David Westergård, ledamot
+* Ledamot: Wynja Borgström
 
-* Ebba Solén, ledamot
+* Ledamot: Clara McWilliam
 
 <br></br>

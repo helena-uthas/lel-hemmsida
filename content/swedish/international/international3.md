@@ -8,4 +8,4 @@ image: "images/international/tastrup1.jpg"
 # meta description
 description : "Tastrup"
 ---
-Treorna besökte på PLEN Living Labs i Taastrup Danmark (2024). Nytt studiebesök är planerat till hösten 2024.
+Treorna besökte på PLEN Living Labs i Taastrup Danmark (2024 och 2025). 

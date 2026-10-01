@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # about image
 #image: "images/about/student1.jpeg"
 # meta description
-description : "Välkomnen till Lars-Erik Larssongymnasiet i Lund!"
+description : "Välkomnen till Lars-Erik Larsson-gymnasiet i Lund!"
 
 
 image: "images/about/elever.jpg"
@@ -21,24 +21,21 @@ title3: "Undersökningar inom geografin"
 ### LELs elevråd
 
 
-*Elevernas inflytande är viktigt......*
+**Nuvarande styrelse 2026/2027:**
 
-LELs elevråd består av medlemmar....
+* Kaya Verma
 
-**Nuvarande styrelse 2024/2025:**
+* Oskar Johansson
 
-* Hilda Ardö, ordförande
+* Alfred Martin-Löf
 
-* Pontus Hedén, vice ordförande
+* Simon Isgar
 
-* John Rahm, sekreterare
+* David Westergård
 
-* PM Barth, ekonomiansvarig
+* Wynja Borgström
 
-* Asta Wolff, ledamot
+* Clara McWilliam 
 
-* Helena Hansson, ledamot
-
-* Ebba Solén, ledamot
 
 <br></br>

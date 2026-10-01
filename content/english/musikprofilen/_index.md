@@ -14,7 +14,7 @@ description : "Musikundervisningen på LEL"
 
 **_Både det naturvetenskapliga och det samhällsvetenskapliga programmet har musikprofil._**
 
-<strong>I musikprofilen ingår körsång och ensemble som mest omfattande kurser, men också dans, musikteori och musikhistoria. Musiken spänner över många olika musikstilar - från klassiskt till rock.</strong>
+<strong>I musikprofilen ingår körsång och ensemble som mest omfattande kurser, men också musikteori och musikhistoria. Musiken spänner över många olika musikstilar - från klassiskt till rock.</strong>
 
 Varje klass är en kör. Klasserna sätts ofta ihop till årskurskörer, och hela skolan tillsammans är också en stor kör, som bland annat framför Lars-Erik Larssons Förklädd gud varje år.
 

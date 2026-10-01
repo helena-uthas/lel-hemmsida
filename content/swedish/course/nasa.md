@@ -1,5 +1,5 @@
 ---
-title: "Naturvetenskapliga programmet - Samhälle"
+title: "Naturvetenskapsprogrammet - Samhälle"
 #date: 2019-07-06T15:27:17+06:00
 #draft: false
 # page title background image
@@ -64,6 +64,6 @@ gallery:
 
 ### Att ansöka
 
-Du ansöker till Natur-Samhälle inför ditt andra år på LEL. 
+Du ansöker till Naturvetenskapsprogrammet med inriktning Samhälle inför ditt andra år på LEL. 
 
 

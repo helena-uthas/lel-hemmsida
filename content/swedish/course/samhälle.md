@@ -1,5 +1,5 @@
 ---
-title: "Samhällsvetenskapliga programmet"
+title: "Samhällsvetenskapsprogrammet"
 #date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -34,12 +34,12 @@ title3: "Workshop i privatekonomi."
 ---
 
 
-**_Samhällsvetenskapliga programmet är ett program för dig som vill få en djupare förståelse för hur vårt samhälle fungerar ur många olika aspekter._** Programmet erbjuder en bredd av ämnen som exempelvis samhällsvetenskap, historia, geografi, religion, psykologi, filosofi. Genom att analysera historiska händelser, samhällsförändringar, ekonomiska fenomen och mänskligt beteende utvecklar du kritiskt tänkande och problemlösningsförmåga som är avgörande för att navigera i dagens komplexa värld. Samtliga program på LEL har musikprofil som inriktning.
+**_Samhällsvetenskapsprogrammet är ett program för dig som vill få en djupare förståelse för hur vårt samhälle fungerar ur många olika aspekter._** Programmet erbjuder en bredd av ämnen som exempelvis samhällsvetenskap, historia, geografi, religion, psykologi, filosofi. Genom att analysera historiska händelser, samhällsförändringar, ekonomiska fenomen och mänskligt beteende utvecklar du kritiskt tänkande och problemlösningsförmåga som är avgörande för att navigera i dagens komplexa värld. Samtliga program på LEL har musikprofil som inriktning.
 
 En central del av utbildningen handlar också om att utveckla förmågan att kommunicera och argumentera. Du lär dig att formulera dina tankar och idéer på ett tydligt och övertygande sätt, både i skrift och muntligt. Genom debatter, presentationer och skriftliga uppsatser får du möjlighet att träna på att uttrycka dig och att försvara dina åsikter. Men det är inte bara akademiska färdigheter som du kommer att utveckla här utan du får också möjlighet att utforska och reflektera över din egen roll i samhället och i världen. Du lär sig att se bortom dina egna erfarenheter och att förstå och respektera olikheter och mångfald. 
 
 
-Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriärmöjligheter för dig. Du kan välja att bland annat bli sociolog, statsvetare, ekonom, psykolog, journalist, socialarbetare, marknadsförare eller lärare, beroende på dina intressen och färdigheter. </p>
+Efter avslutade studier på samhällsvetenskapsprogrammet öppnar sig många olika karriärmöjligheter för dig. Du kan välja att bland annat bli sociolog, statsvetare, ekonom, psykolog, journalist, socialarbetare, marknadsförare eller lärare, beroende på dina intressen och färdigheter. </p>
 
 ### Programmets kurser
 <br/>
@@ -62,6 +62,6 @@ Efter avslutade studier på samhällsprogrammet öppnar sig många olika karriä
 
 ### Att ansöka
 
-Du ansöker till LELs samhällsvetenskapliga program med musikprofil via Lunds kommuns gymnasieantagning. Denna öppnar den 15/1 varje år och ansökningen stänger den 15/2. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition.  Du kan [läsa mer om hela ansökningsprocessen här]({{< ref "/apply" >}} "apply") . 
+Du ansöker till LELs samhällsvetenskapsprogram med musikprofil via Lunds kommuns gymnasieantagning. Denna öppnar den 15/1 varje år och ansökningen stänger den 15/2. Du som har valt LEL i första eller andra hand kommer att bli erbjuden att göra ett antagningsprov. Detta är din chans att få känna på hur det känns att gå på LEL samt att komma i kontakt med skolan och träffa elever med erfarenhet. LELs antagningsprov är en del av skolans tradition.  Du kan [läsa mer om hela ansökningsprocessen här]({{< ref "/apply" >}} "apply") . 
 
 

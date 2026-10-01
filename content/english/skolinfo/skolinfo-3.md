@@ -9,11 +9,3 @@ image: "images/skolinfo/stock_labb.jpg"
 description : "natur"
 ---
 
-* Studiebesök i Taastrup 16/2
-* Astronomiolypiad 31/1
-* Biologiolympiad 7/2
-* NMT-dagarna på universitetet 12/3
-* FN rollspel 18-19/3
-* Stamcellsdagen 22/3
-* Her Tech Future 17-19/4
-

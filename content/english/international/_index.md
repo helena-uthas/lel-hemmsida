@@ -34,7 +34,7 @@ LELs elever har vid flertalet tillfällen visat stora framgångar inom internati
 
 #### Studiebesök
 
-I januari 2025 kommer naturtreorna besöka PLEN Living Labs i Taastrup Danmark för ett studiebesök vid en digital testbädd. Projeketet Bioequality syftar till jämställhet och digitalisering av jord och skogsbruk, vilket är en viktig del av framtidens försörningsbehov ocharbetsfördelning inom sektorn.
+2024 och 2025 åkte naturtreorna till PLEN Living Labs i Taastrup Danmark för studiebesök vid en digital testbädd. Projeketet Bioequality syftar till jämställhet och digitalisering av jord och skogsbruk, vilket är en viktig del av framtidens försörningsbehov ocharbetsfördelning inom sektorn.
 
 <br></br>
 

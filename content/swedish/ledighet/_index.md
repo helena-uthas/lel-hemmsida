@@ -18,7 +18,7 @@ För att du skall kunna beviljas ledighet behöver du ansöka skriftligt i god t
 
 Ledighet kan få konsekvenser för kursernas måluppfyllelse och betyg. Eleven ansvarar själv för igenläsning/igentagning av förlorad undervisning. Skolan erbjuder inte extra stöd för att ta igen den lediga tid som beviljas. Notera att du behöver underskrifter från de lärare vars lektioner berörs. 
 
-<a href="https://drive.google.com/file/d/1ZG6-ficGCZw1VrZiRYbJp-vcKzKNOu9O/view?usp=sharing" target="_blank">Ladda ner ledighetsansökan här</a>
+<a href="https://drive.google.com/file/d/1ngmbW_pzmIucl837sqi7pMNsiU1EfRwU/view?usp=sharing" target="_blank">Ladda ner ledighetsansökan här</a>
 
 
 

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/LEL_top.jpg"
 # about image
 #image: "images/about/student1.jpeg"
 # meta description
-description : "Välkomnen till Lars-Erik Larssongymnasiet i Lund!"
+description : "Välkomnen till Lars-Erik Larsson-gymnasiet i Lund!"
 
 image: "images/utskott/elev.jpg"
 image1: "images/utskott/dans.jpg"
@@ -25,18 +25,18 @@ title3: "Elever bildar själva utskotten"
 **Nedan finns en lista över LELs nuvarande utskott.**
 
 
-- LELs Miljöutskott
-- LELs Dansutskott – Jans buggare
-- LELs Feministuskott
-- LELs HBTQ-utskott
-- MåBra-utskott
-- Litterära utskottet
-- Basketutskott
+- Fikautskottet
+- Miljöutskottet
+- Basketutskottet
+- Kristna skolgruppen
+- Dansutskottet
+- Baristautskottet 
+- Bastuutskottet
+- Pokerutskottet
+- Läxhjälputskottet
+- Måsarts naturskådningsutskott
 - Dekorationsutskottet
-- Friluftsutskottet
-- Prankutskotte
-- Glassutskottet
-- Kristen skolgrupp
+- Trainspottingutskottet 
 
 
   <br></br>
