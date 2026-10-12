@@ -16,6 +16,8 @@ image: "images/events/event_lucia3.jpg"
 location: "Allhelgonakyrkan, Lund"
 # entry fee
 fee: "Vuxna 215kr/barn 95kr"
+# Biljettlänk – lämna tom för att dölja biljettknappen
+ticket_url: ""
 # apply url
 apply_url : "En stämningsfull upplevelse. "
 # event speaker

@@ -16,6 +16,8 @@ image: "images/events/event_varen.jpg"
 location: "Folkparken, Lund"
 # entry fee
 fee: "Vuxna 195kr/barn 85kr + avg"
+# Biljettlänk – lämna tom för att dölja biljettknappen
+ticket_url: ""
 # apply url
 apply_url : "#"
 # event speaker

@@ -16,6 +16,8 @@ image: "images/events/urintown_temp.jpg"
 location: "Lunds stadsteater, Lund"
 # entry fee
 fee: "Vuxna 215kr/barn 95kr"
+# Biljettlänk – lämna tom för att dölja biljettknappen
+ticket_url: ""
 # apply url
 apply_url : "#"
 # event speaker
