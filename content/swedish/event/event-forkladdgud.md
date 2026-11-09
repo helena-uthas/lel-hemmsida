@@ -17,7 +17,7 @@ location: "Domkyrkan, Lund"
 # entry fee
 fee: "Vuxna 215 kr/barn 95 kr"
 # Biljettlänk – lämna tom för att dölja biljettknappen
-ticket_url: "https://secure.tickster.com/yghwm3tr4xp2309"
+ticket_url: ""
 # apply url
 apply_url : "#"
 # event speaker
