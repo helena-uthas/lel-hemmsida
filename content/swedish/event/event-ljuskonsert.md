@@ -17,7 +17,7 @@ location: "Allhelgonakyrkan, Lund"
 # entry fee
 fee: "Vuxna 215kr/barn 95kr"
 # Biljettlänk – lämna tom för att dölja biljettknappen
-ticket_url: ""
+ticket_url: "https://secure.tickster.com/yfkjk71utk95lgt"
 # apply url
 apply_url : "En stämningsfull upplevelse. "
 # event speaker
